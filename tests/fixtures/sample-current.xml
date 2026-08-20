@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenDataMedicineShortages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" creationDate="2026-08-20T10:22:10.6865886+02:00" xmlns="http://eservices.lakemedelsverket.se/opendata/medicineshortage/v3/">
+  <MedicineShortages>
+    <MedicineShortage>
+      <MedicineShortageId>aaaa1111-0000-0000-0000-000000000001</MedicineShortageId>
+      <TypeOfShortage>SHORTAGE</TypeOfShortage>
+      <DateOfFirstNotification>2026-06-01</DateOfFirstNotification>
+      <DateOfFirstPublication>2026-06-01</DateOfFirstPublication>
+      <OrganisationPhoneNumber>+46 8 000 00 00</OrganisationPhoneNumber>
+      <OrganisationEmail>info@example.com</OrganisationEmail>
+      <CauseOfShortageCategory>Produktionsproblem</CauseOfShortageCategory>
+      <CauseOfShortage>Ökad efterfrågan och produktionsproblem.</CauseOfShortage>
+      <LastUpdated>2026-08-10</LastUpdated>
+      <MedicinalProducts>
+        <MedicinalProduct>
+          <NPLId>20010101000001</NPLId>
+          <ProductName>Metylfenidat Test 36 mg Depottablett</ProductName>
+          <MarketAuthorisationHolderName>Testbolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>metylfenidathydroklorid</ActiveSubstances>
+          <ATC term="Metylfenidat">N06BA04</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20010101100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-06-01</ForecastedStartDate>
+                <ForecastedEndDate>2026-10-15</ForecastedEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-10</LastUpdated>
+              </Interval>
+              <PackageDescription>Burk, 30 tabletter</PackageDescription>
+              <NordicArticleNumber>111111</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20010101100002</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-06-01</ForecastedStartDate>
+                <ForecastedEndDate>2026-09-30</ForecastedEndDate>
+                <ActualEndDate>2026-08-01</ActualEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-01</LastUpdated>
+              </Interval>
+              <PackageDescription>Burk, 90 tabletter</PackageDescription>
+              <NordicArticleNumber>111112</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+      </MedicinalProducts>
+    </MedicineShortage>
+    <MedicineShortage>
+      <MedicineShortageId>aaaa1111-0000-0000-0000-000000000002</MedicineShortageId>
+      <TypeOfShortage>SHORTAGE</TypeOfShortage>
+      <DateOfFirstNotification>2026-05-10</DateOfFirstNotification>
+      <DateOfFirstPublication>2026-05-11</DateOfFirstPublication>
+      <OrganisationPhoneNumber>+46 8 000 00 01</OrganisationPhoneNumber>
+      <OrganisationEmail>info@example.org</OrganisationEmail>
+      <CauseOfShortageCategory nullFlavor="MSK" />
+      <CauseOfShortage nullFlavor="MSK" />
+      <LastUpdated>2026-08-15</LastUpdated>
+      <MedicinalProducts>
+        <MedicinalProduct>
+          <NPLId>20020202000002</NPLId>
+          <ProductName>Estradiol Test 50 mikrog/24 timmar Depotplåster</ProductName>
+          <MarketAuthorisationHolderName>Hormonbolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>estradiol</ActiveSubstances>
+          <ATC term="Estradiol">G03CA03</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20020202100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-05-10</ForecastedStartDate>
+                <ForecastedEndDate nullFlavor="UNK"></ForecastedEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-15</LastUpdated>
+              </Interval>
+              <PackageDescription>Påse, 8 plåster</PackageDescription>
+              <NordicArticleNumber>222221</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+      </MedicinalProducts>
+    </MedicineShortage>
+    <MedicineShortage>
+      <MedicineShortageId>aaaa1111-0000-0000-0000-000000000003</MedicineShortageId>
+      <TypeOfShortage>SHORTAGE</TypeOfShortage>
+      <DateOfFirstNotification>2026-08-01</DateOfFirstNotification>
+      <DateOfFirstPublication>2026-08-02</DateOfFirstPublication>
+      <OrganisationPhoneNumber>+46 8 000 00 02</OrganisationPhoneNumber>
+      <OrganisationEmail>info@example.net</OrganisationEmail>
+      <CauseOfShortageCategory>Ökad efterfrågan</CauseOfShortageCategory>
+      <CauseOfShortage>Ökad efterfrågan.</CauseOfShortage>
+      <LastUpdated>2026-08-18</LastUpdated>
+      <MedicinalProducts>
+        <MedicinalProduct>
+          <NPLId>20030303000003</NPLId>
+          <ProductName>Amoxicillin Test 100 mg/ml Granulat till oral suspension</ProductName>
+          <MarketAuthorisationHolderName>Antibiotikabolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>amoxicillin</ActiveSubstances>
+          <ATC term="Amoxicillin">J01CA04</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20030303100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-09-15</ForecastedStartDate>
+                <ForecastedEndDate>2026-11-01</ForecastedEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-18</LastUpdated>
+              </Interval>
+              <PackageDescription>Flaska, 100 ml</PackageDescription>
+              <NordicArticleNumber>333331</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+      </MedicinalProducts>
+    </MedicineShortage>
+    <MedicineShortage>
+      <MedicineShortageId>aaaa1111-0000-0000-0000-000000000004</MedicineShortageId>
+      <TypeOfShortage>SHORTAGE</TypeOfShortage>
+      <DateOfFirstNotification>2026-03-01</DateOfFirstNotification>
+      <DateOfFirstPublication>2026-03-01</DateOfFirstPublication>
+      <OrganisationPhoneNumber>+46 8 000 00 03</OrganisationPhoneNumber>
+      <OrganisationEmail>info@example.se</OrganisationEmail>
+      <CauseOfShortageCategory nullFlavor="MSK" />
+      <CauseOfShortage nullFlavor="MSK" />
+      <LastUpdated>2026-08-12</LastUpdated>
+      <MedicinalProducts>
+        <MedicinalProduct>
+          <NPLId>20040404000004</NPLId>
+          <ProductName>Semaglutid Test 1 mg Injektionsvätska, lösning i förfylld injektionspenna</ProductName>
+          <MarketAuthorisationHolderName>Diabetesbolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>semaglutid</ActiveSubstances>
+          <ATC term="Semaglutid">A10BJ06</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20040404100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-03-01</ForecastedStartDate>
+                <ForecastedEndDate>2026-09-01</ForecastedEndDate>
+                <ActualEndDate>2026-08-19</ActualEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-19</LastUpdated>
+              </Interval>
+              <PackageDescription>Förfylld injektionspenna, 1 x 3 doser</PackageDescription>
+              <NordicArticleNumber>444441</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+      </MedicinalProducts>
+    </MedicineShortage>
+    <MedicineShortage>
+      <MedicineShortageId>aaaa1111-0000-0000-0000-000000000005</MedicineShortageId>
+      <TypeOfShortage>SHORTAGE</TypeOfShortage>
+      <DateOfFirstNotification>2026-07-01</DateOfFirstNotification>
+      <DateOfFirstPublication>2026-07-01</DateOfFirstPublication>
+      <OrganisationPhoneNumber>+46 8 000 00 04</OrganisationPhoneNumber>
+      <OrganisationEmail>info@example.io</OrganisationEmail>
+      <CauseOfShortageCategory>Produktionsproblem</CauseOfShortageCategory>
+      <CauseOfShortage>Produktionsproblem.</CauseOfShortage>
+      <LastUpdated>2026-08-16</LastUpdated>
+      <MedicinalProducts>
+        <MedicinalProduct>
+          <NPLId>20050505000005</NPLId>
+          <ProductName>Naproxen Test 500 mg Tablett</ProductName>
+          <MarketAuthorisationHolderName>Värkbolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>naproxen</ActiveSubstances>
+          <ATC term="Naproxen">M01AE02</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20050505100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-07-01</ForecastedStartDate>
+                <ForecastedEndDate>2026-12-01</ForecastedEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-16</LastUpdated>
+              </Interval>
+              <PackageDescription>Blister, 100 tabletter</PackageDescription>
+              <NordicArticleNumber>555551</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+        <MedicinalProduct>
+          <NPLId>20060606000006</NPLId>
+          <ProductName>Etonogestrel Test 68 mg Implantat</ProductName>
+          <MarketAuthorisationHolderName>Preventivbolag AB</MarketAuthorisationHolderName>
+          <ActiveSubstances>etonogestrel</ActiveSubstances>
+          <ATC term="Etonogestrel">G03AC08</ATC>
+          <IsParallelImport>false</IsParallelImport>
+          <CountryOfOrigin />
+          <PackagedMedicinalProducts>
+            <PackagedMedicinalProduct>
+              <NPLPackId>20060606100001</NPLPackId>
+              <Interval>
+                <ForecastedStartDate>2026-07-01</ForecastedStartDate>
+                <ForecastedEndDate>2026-10-01</ForecastedEndDate>
+                <Duration nullFlavor="NA"></Duration>
+                <LastUpdated>2026-08-16</LastUpdated>
+              </Interval>
+              <PackageDescription>Implantat i applikator, 1 st</PackageDescription>
+              <NordicArticleNumber>666661</NordicArticleNumber>
+              <IsParallelDistribution>false</IsParallelDistribution>
+              <ParallelDistributorName />
+              <RiskAssessment nullFlavor="UNK"></RiskAssessment>
+              <MedicineShortageInformations />
+            </PackagedMedicinalProduct>
+          </PackagedMedicinalProducts>
+        </MedicinalProduct>
+      </MedicinalProducts>
+    </MedicineShortage>
+  </MedicineShortages>
+</OpenDataMedicineShortages>

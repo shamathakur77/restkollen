@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sv" data-lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Smärtstillande — Restkollen</title>
+<meta name="description" content="Aktuella restanmälningar: Smärtstillande / Current medicine shortages: Painkillers. Källa: Läkemedelsverkets öppna data.">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="alternate" type="application/rss+xml" title="Restkollen — Smärtstillande" href="/feeds/smartstillande.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%8A%3C/text%3E%3C/svg%3E">
+<script>window.RK_CATEGORY = { prefixes: ["N02", "M01AE"] };</script>
+</head>
+<body>
+<a class="skip-link" href="#cat-list"><span class="sv">Hoppa till innehåll</span><span class="en">Skip to content</span></a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/"><strong>Restkollen<span class="dot">.</span></strong>
+      <p class="tagline"><span class="sv">Koll på restanmälda läkemedel — varje dag</span><span class="en">Tracking Sweden's medicine shortages — daily</span></p>
+    </a>
+    <button id="lang-toggle" class="lang-toggle" aria-label="Byt språk / Switch language">EN</button>
+  </div>
+</header>
+
+<div id="stale-banner" class="stale-banner"><div class="wrap">
+  <span class="sv">⚠️ Data kunde inte uppdateras. Senast verifierad: <span class="js-verified">—</span>.</span>
+  <span class="en">⚠️ Data could not be updated. Last verified: <span class="js-verified">—</span>.</span>
+</div></div>
+
+<main class="wrap">
+  <h1><span class="sv">Smärtstillande</span><span class="en">Painkillers</span></h1>
+  <p class="cat-desc"><span class="sv">Smärtstillande läkemedel (ATC-grupp N02 samt M01AE, t.ex. ibuprofen och naproxen).</span><span class="en">Painkillers (ATC group N02 plus M01AE, e.g. ibuprofen and naproxen).</span></p>
+  <p class="count-line" id="cat-count"></p>
+
+  <p id="load-error" style="display:none;color:var(--new)">
+    <span class="sv">Kunde inte läsa in data. Försök igen senare.</span>
+    <span class="en">Could not load data. Please try again later.</span>
+  </p>
+
+  <div class="follow">
+    <a class="btn-rss" href="/feeds/smartstillande.xml">
+      <span class="sv">Följ denna kategori (RSS)</span><span class="en">Follow this category (RSS)</span>
+    </a>
+    <button class="btn-copy" data-feed="/feeds/smartstillande.xml" aria-label="Kopiera länk / Copy link">⧉</button>
+    <p class="explainer">
+      <span class="sv">Klistra in länken i valfri gratis RSS-app (t.ex. Feeder eller NetNewsWire) så får du en avisering samma dag något ändras. Inget konto, ingen e-post.</span>
+      <span class="en">Paste the link into any free RSS app (e.g. Feeder or NetNewsWire) and get alerted the day something changes. No account, no email.</span>
+    </p>
+  </div>
+
+  <ul class="shortage-list" id="cat-list"></ul>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>SV:</strong> En restanmälan är inte samma sak som lagerstatus på apotek — ett läkemedel kan finnas på hyllan trots restanmälan, eller vara slut utan att vara restanmält. Kontrollera lagerstatus på <a href="https://www.fass.se" rel="noopener">fass.se</a> och prata med apotekspersonal eller din läkare. Restkollen ger ingen medicinsk rådgivning.</p>
+    <p><strong>EN:</strong> A registered shortage (restanmälan) is not the same as pharmacy stock — a medicine can be on shelves while reported, or out of stock without being reported. Check <a href="https://www.fass.se" rel="noopener">fass.se</a> for pharmacy stock and talk to your pharmacist or doctor. Restkollen is not medical advice.</p>
+    <p>Källa / Source: <a href="https://www.dataportal.se/datasets/140_2136" rel="noopener">Läkemedelsverket — öppna data (CC BY 4.0)</a>.
+       <span class="verified"><span class="sv">Data senast verifierad:</span><span class="en">Data last verified:</span> <span class="js-verified">—</span></span></p>
+    <p><a href="https://github.com/shamathakur77/restkollen" rel="noopener">Öppen källkod / Open source</a> · <span class="sv">Inga kakor, ingen spårning.</span><span class="en">No cookies, no tracking.</span></p>
+  </div>
+</footer>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

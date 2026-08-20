@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="sv" data-lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Restkollen — dagens ändringar i restanmälda läkemedel</title>
+<meta name="description" content="Fri bevakning av restanmälda läkemedel i Sverige. Dagliga ändringar och RSS-aviseringar per kategori. Källa: Läkemedelsverkets öppna data. / Free alerts for medicine shortages in Sweden.">
+<link rel="stylesheet" href="/css/style.css">
+<link rel="alternate" type="application/rss+xml" title="Restkollen — alla ändringar" href="/feeds/alla.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%8A%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+<a class="skip-link" href="#today"><span class="sv">Hoppa till innehåll</span><span class="en">Skip to content</span></a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/"><strong>Restkollen<span class="dot">.</span></strong>
+      <p class="tagline"><span class="sv">Koll på restanmälda läkemedel — varje dag</span><span class="en">Tracking Sweden's medicine shortages — daily</span></p>
+    </a>
+    <button id="lang-toggle" class="lang-toggle" aria-label="Byt språk / Switch language">EN</button>
+  </div>
+</header>
+
+<div id="stale-banner" class="stale-banner"><div class="wrap">
+  <span class="sv">⚠️ Data kunde inte uppdateras. Senast verifierad: <span class="js-verified">—</span>.</span>
+  <span class="en">⚠️ Data could not be updated. Last verified: <span class="js-verified">—</span>.</span>
+</div></div>
+
+<main class="wrap">
+  <p class="today-date" id="today-date"></p>
+  <h1 id="today"><span class="sv">Dagens ändringar i restanmälda läkemedel</span><span class="en">Today's changes in reported medicine shortages</span></h1>
+
+  <p id="load-error" style="display:none;color:var(--new)">
+    <span class="sv">Kunde inte läsa in data. Försök igen senare.</span>
+    <span class="en">Could not load data. Please try again later.</span>
+  </p>
+
+  <section class="change-group g-new" id="g-new" aria-label="Nya restanmälningar">
+    <header>
+      <span class="change-count">–</span>
+      <span class="change-title"><span class="sv">Nya restanmälningar i dag</span><span class="en">New shortage reports today</span></span>
+    </header>
+    <ul class="change-list"></ul>
+    <p class="change-empty"><span class="sv">Inga nya i dag.</span><span class="en">None today.</span></p>
+  </section>
+
+  <section class="change-group g-back" id="g-back" aria-label="Avslutade restanmälningar">
+    <header>
+      <span class="change-count">–</span>
+      <span class="change-title"><span class="sv">Avslutade restanmälningar i dag</span><span class="en">Shortage reports ended today</span></span>
+    </header>
+    <ul class="change-list"></ul>
+    <p class="change-empty"><span class="sv">Inga avslutade i dag.</span><span class="en">None today.</span></p>
+  </section>
+
+  <section class="change-group g-changed" id="g-changed" aria-label="Ändrade datum">
+    <header>
+      <span class="change-count">–</span>
+      <span class="change-title"><span class="sv">Uppdaterade återkomstdatum i dag</span><span class="en">Updated return dates today</span></span>
+    </header>
+    <ul class="change-list"></ul>
+    <p class="change-empty"><span class="sv">Inga ändrade datum i dag.</span><span class="en">None today.</span></p>
+  </section>
+
+  <div class="follow">
+    <a class="btn-rss" href="/feeds/alla.xml">
+      <span class="sv">Följ alla ändringar (RSS)</span><span class="en">Follow all changes (RSS)</span>
+    </a>
+    <button class="btn-copy" data-feed="/feeds/alla.xml" aria-label="Kopiera länk / Copy link">⧉</button>
+    <p class="explainer">
+      <span class="sv">Klistra in länken i valfri gratis RSS-app (t.ex. Feeder eller NetNewsWire) så får du en avisering samma dag något ändras. Inget konto, ingen e-post.</span>
+      <span class="en">Paste the link into any free RSS app (e.g. Feeder or NetNewsWire) and get alerted the day something changes. No account, no email.</span>
+    </p>
+  </div>
+
+  <h2><span class="sv">Sök bland aktuella restanmälningar</span><span class="en">Search current shortage reports</span></h2>
+  <input id="search" class="search-box" type="search"
+    placeholder="T.ex. Elvanse, estradiol, J01… / e.g. Elvanse, estradiol, J01…" autocomplete="off">
+  <div id="search-results"><p class="hint"><span class="sv">Sök på namn, substans eller ATC-kod.</span><span class="en">Search by name, substance or ATC code.</span></p></div>
+
+  <h2><span class="sv">Kategorier</span><span class="en">Categories</span></h2>
+  <ul class="cat-grid">
+    <li class="cat-card" data-cat-prefixes="N06BA">
+      <a class="cat-link" href="/kategori/adhd"><span class="sv">ADHD-läkemedel</span><span class="en">ADHD medicines</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+    <li class="cat-card" data-cat-prefixes="G03">
+      <a class="cat-link" href="/kategori/hormonbehandling"><span class="sv">Hormonbehandling (MHT/HRT)</span><span class="en">Hormone therapy (MHT/HRT)</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+    <li class="cat-card" data-cat-prefixes="J01">
+      <a class="cat-link" href="/kategori/antibiotika"><span class="sv">Antibiotika</span><span class="en">Antibiotics</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+    <li class="cat-card" data-cat-prefixes="A10">
+      <a class="cat-link" href="/kategori/diabetes"><span class="sv">Diabetesläkemedel</span><span class="en">Diabetes medicines</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+    <li class="cat-card" data-cat-prefixes="G03A">
+      <a class="cat-link" href="/kategori/preventivmedel"><span class="sv">Preventivmedel</span><span class="en">Contraception</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+    <li class="cat-card" data-cat-prefixes="N02,M01AE">
+      <a class="cat-link" href="/kategori/smartstillande"><span class="sv">Smärtstillande</span><span class="en">Painkillers</span></a>
+      <span class="cat-count"><span class="js-cat-count">–</span> <span class="sv">pågående</span><span class="en">ongoing</span></span>
+    </li>
+  </ul>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p><strong>SV:</strong> En restanmälan är inte samma sak som lagerstatus på apotek — ett läkemedel kan finnas på hyllan trots restanmälan, eller vara slut utan att vara restanmält. Kontrollera lagerstatus på <a href="https://www.fass.se" rel="noopener">fass.se</a> och prata med apotekspersonal eller din läkare. Restkollen ger ingen medicinsk rådgivning.</p>
+    <p><strong>EN:</strong> A registered shortage (restanmälan) is not the same as pharmacy stock — a medicine can be on shelves while reported, or out of stock without being reported. Check <a href="https://www.fass.se" rel="noopener">fass.se</a> for pharmacy stock and talk to your pharmacist or doctor. Restkollen is not medical advice.</p>
+    <p>Källa / Source: <a href="https://www.dataportal.se/datasets/140_2136" rel="noopener">Läkemedelsverket — öppna data (CC BY 4.0)</a>.
+       <span class="verified"><span class="sv">Data senast verifierad:</span><span class="en">Data last verified:</span> <span class="js-verified">—</span></span></p>
+    <p><a href="https://github.com/shamathakur77/restkollen" rel="noopener">Öppen källkod / Open source</a> · <span class="sv">Inga kakor, ingen spårning.</span><span class="en">No cookies, no tracking.</span></p>
+  </div>
+</footer>
+
+<script src="/js/app.js"></script>
+</body>
+</html>
