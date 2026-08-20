@@ -174,7 +174,7 @@ def validate_xml(body: bytes, min_records: int = MIN_RECORDS) -> int:
     if len(records) < min_records:
         raise ValueError(
             f"only {len(records)} MedicineShortage records "
-            f"(minimum {min_records}) — refusing to publish"
+            f"(minimum {min_records}). refusing to publish"
         )
     return len(records)
 

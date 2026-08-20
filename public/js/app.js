@@ -1,4 +1,4 @@
-/* Restkollen — no frameworks, no cookies, no tracking.
+/* Restkollen. No frameworks, no cookies, no tracking.
    Renders only facts present in Läkemedelsverket's open data JSON.
    Missing values render as "uppgift saknas / not reported". */
 
@@ -35,7 +35,7 @@
     activeShortages: { sv: "pågående restanmälningar", en: "ongoing shortage reports" },
     andUpcoming: { sv: "kommande", en: "upcoming" },
     noResults: { sv: "Inga träffar bland aktuella restanmälningar.", en: "No matches among current shortage reports." },
-    searchHint: { sv: "Sök på namn, substans eller ATC-kod.", en: "Search by name, substance or ATC code." },
+    searchPlaceholder: { sv: "Namn, substans eller ATC-kod", en: "Name, substance or ATC code" },
     typeShortage: { sv: "Restanmälan", en: "Shortage report" },
     typeCessation: { sv: "försäljning upphör", en: "sales ending" },
     started: { sv: "start", en: "from" },
@@ -104,7 +104,7 @@
     if (!DATA.meta) return;
     var stampEls = document.querySelectorAll(".js-verified");
     var d = DATA.meta.lastVerified ? DATA.meta.lastVerified.slice(0, 10) : null;
-    stampEls.forEach(function (el) { el.textContent = d || "—"; });
+    stampEls.forEach(function (el) { el.textContent = d || "\u2013"; });
     if (d) {
       var ageDays = Math.floor((Date.now() - new Date(d + "T12:00:00").getTime()) / 864e5);
       var banner = document.getElementById("stale-banner");
@@ -122,7 +122,7 @@
     if (val(ev.atc)) meta.push("ATC " + esc(ev.atc));
     var back = "";
     if (type === "new" || type === "date_changed") {
-      back = " — " + t("expectedBack") + " <strong>" +
+      back = " \u00b7 " + t("expectedBack") + " <strong>" +
         (val(ev.expectedBack) ? esc(ev.expectedBack) : t("missing")) + "</strong>";
       if (type === "date_changed" && val(ev.previousExpectedBack)) {
         back += " (" + t("prevDate") + " " + esc(ev.previousExpectedBack) + ")";
@@ -223,7 +223,7 @@
     if (!input || !out) return;
     var q = input.value.trim().toLowerCase();
     if (q.length < 2) {
-      out.innerHTML = '<p class="hint">' + t("searchHint") + "</p>";
+      out.innerHTML = "";
       return;
     }
     var hits = activeRecords().filter(function (r) {
@@ -257,6 +257,8 @@
   }
 
   function renderAll() {
+    var si = document.getElementById("search");
+    if (si) si.placeholder = t("searchPlaceholder");
     renderStamp();
     renderHome();
     renderCategory();

@@ -42,7 +42,7 @@ SITE_URL = os.environ.get("RESTKOLLEN_SITE_URL", "https://restkollen.vercel.app"
 USER_AGENT = "Restkollen/1.0 (open-source shortage alerts; github.com/shamathakur77/restkollen)"
 
 # Categories, keyed by ATC-code prefixes. Descriptions are static,
-# human-written, factual one-liners — never AI medical content.
+# human-written, factual one-liners. never AI medical content.
 CATEGORIES = [
     {
         "slug": "adhd",

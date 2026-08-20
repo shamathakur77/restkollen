@@ -1,5 +1,5 @@
 """Generate the static category pages (development tool, not part of the
-nightly pipeline — pages are committed). Run from repo root:
+nightly pipeline; pages are committed). Run from repo root:
     python scripts/gen_pages.py
 """
 
@@ -11,28 +11,28 @@ from common import CATEGORIES
 # advice, no AI-generated medical content.
 DESCRIPTIONS = {
     "adhd": (
-        "Läkemedel med ATC-kod N06BA — gruppen som bland annat innehåller metylfenidat, lisdexamfetamin och atomoxetin.",
-        "Medicines with ATC code N06BA — the group that includes methylphenidate, lisdexamfetamine and atomoxetine.",
+        "Läkemedel med ATC-kod N06BA, bland annat metylfenidat, lisdexamfetamin och atomoxetin.",
+        "Medicines with ATC code N06BA, including methylphenidate, lisdexamfetamine and atomoxetine.",
     ),
     "hormonbehandling": (
-        "Könshormoner och liknande medel (ATC-grupp G03), där bland annat läkemedel som används vid klimakteriebesvär ingår.",
-        "Sex hormones and related medicines (ATC group G03), which includes medicines used in menopausal hormone therapy (MHT/HRT).",
+        "Könshormoner och liknande medel, ATC-grupp G03. Här ingår läkemedel som används vid klimakteriebesvär.",
+        "Sex hormones and related medicines, ATC group G03. Includes medicines used in menopausal hormone therapy.",
     ),
     "antibiotika": (
-        "Antibiotika för systemiskt bruk (ATC-grupp J01), inklusive flytande antibiotika för barn.",
-        "Antibiotics for systemic use (ATC group J01), including children's oral suspensions.",
+        "Antibiotika för systemiskt bruk, ATC-grupp J01, inklusive flytande antibiotika för barn.",
+        "Antibiotics for systemic use, ATC group J01, including children's oral suspensions.",
     ),
     "diabetes": (
-        "Diabetesläkemedel (ATC-grupp A10), till exempel insuliner och GLP-1-läkemedel.",
-        "Diabetes medicines (ATC group A10), such as insulins and GLP-1 medicines.",
+        "Diabetesläkemedel, ATC-grupp A10, till exempel insuliner och GLP-1-läkemedel.",
+        "Diabetes medicines, ATC group A10, such as insulins and GLP-1 medicines.",
     ),
     "preventivmedel": (
-        "Hormonella preventivmedel (ATC-grupp G03A).",
-        "Hormonal contraceptives (ATC group G03A).",
+        "Hormonella preventivmedel, ATC-grupp G03A.",
+        "Hormonal contraceptives, ATC group G03A.",
     ),
     "smartstillande": (
-        "Smärtstillande läkemedel (ATC-grupp N02 samt M01AE, t.ex. ibuprofen och naproxen).",
-        "Painkillers (ATC group N02 plus M01AE, e.g. ibuprofen and naproxen).",
+        "Smärtstillande läkemedel, ATC-grupp N02 samt M01AE, till exempel ibuprofen och naproxen.",
+        "Painkillers, ATC group N02 plus M01AE, for example ibuprofen and naproxen.",
     ),
 }
 
@@ -41,11 +41,17 @@ TEMPLATE = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{sv} — Restkollen</title>
-<meta name="description" content="Aktuella restanmälningar: {sv} / Current medicine shortages: {en}. Källa: Läkemedelsverkets öppna data.">
+<title>{sv} · Restkollen</title>
+<meta name="description" content="Aktuella restanmälningar: {sv}. Källa: Läkemedelsverkets öppna data. / Current shortage reports: {en}.">
+<meta name="theme-color" content="#fafaf7">
+<meta property="og:title" content="{sv} · Restkollen">
+<meta property="og:description" content="Aktuella restanmälningar med förväntade återkomstdatum. / Current shortage reports with expected return dates.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://restkollen.vercel.app/kategori/{slug}">
+<link rel="canonical" href="https://restkollen.vercel.app/kategori/{slug}">
 <link rel="stylesheet" href="/css/style.css">
-<link rel="alternate" type="application/rss+xml" title="Restkollen — {sv}" href="/feeds/{slug}.xml">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%8A%3C/text%3E%3C/svg%3E">
+<link rel="alternate" type="application/rss+xml" title="Restkollen: {sv}" href="/feeds/{slug}.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%2316181a'/%3E%3Ctext x='50' y='72' font-size='62' font-family='Helvetica,Arial' font-weight='700' fill='%23fafaf7' text-anchor='middle'%3ER%3C/text%3E%3C/svg%3E">
 <script>window.RK_CATEGORY = {{ prefixes: {prefixes_js} }};</script>
 </head>
 <body>
@@ -53,16 +59,14 @@ TEMPLATE = """<!DOCTYPE html>
 
 <header class="site-header">
   <div class="wrap">
-    <a class="brand" href="/"><strong>Restkollen<span class="dot">.</span></strong>
-      <p class="tagline"><span class="sv">Koll på restanmälda läkemedel — varje dag</span><span class="en">Tracking Sweden's medicine shortages — daily</span></p>
-    </a>
+    <a class="brand" href="/"><strong>Restkollen<span class="dot">.</span></strong></a>
     <button id="lang-toggle" class="lang-toggle" aria-label="Byt språk / Switch language">EN</button>
   </div>
 </header>
 
 <div id="stale-banner" class="stale-banner"><div class="wrap">
-  <span class="sv">⚠️ Data kunde inte uppdateras. Senast verifierad: <span class="js-verified">—</span>.</span>
-  <span class="en">⚠️ Data could not be updated. Last verified: <span class="js-verified">—</span>.</span>
+  <span class="sv">Data kunde inte uppdateras. Senast verifierad: <span class="js-verified">–</span>.</span>
+  <span class="en">Data could not be updated. Last verified: <span class="js-verified">–</span>.</span>
 </div></div>
 
 <main class="wrap">
@@ -72,17 +76,17 @@ TEMPLATE = """<!DOCTYPE html>
 
   <p id="load-error" style="display:none;color:var(--new)">
     <span class="sv">Kunde inte läsa in data. Försök igen senare.</span>
-    <span class="en">Could not load data. Please try again later.</span>
+    <span class="en">Could not load data. Try again later.</span>
   </p>
 
   <div class="follow">
     <a class="btn-rss" href="/feeds/{slug}.xml">
-      <span class="sv">Följ denna kategori (RSS)</span><span class="en">Follow this category (RSS)</span>
+      <span class="sv">Följ denna kategori</span><span class="en">Follow this category</span>
     </a>
-    <button class="btn-copy" data-feed="/feeds/{slug}.xml" aria-label="Kopiera länk / Copy link">⧉</button>
+    <button class="btn-copy" data-feed="/feeds/{slug}.xml" aria-label="Kopiera länk / Copy link"><span class="sv">Kopiera länk</span><span class="en">Copy link</span></button>
     <p class="explainer">
-      <span class="sv">Klistra in länken i valfri gratis RSS-app (t.ex. Feeder eller NetNewsWire) så får du en avisering samma dag något ändras. Inget konto, ingen e-post.</span>
-      <span class="en">Paste the link into any free RSS app (e.g. Feeder or NetNewsWire) and get alerted the day something changes. No account, no email.</span>
+      <span class="sv">Klistra in länken i en RSS-app, till exempel Feeder. Du får en avisering samma dag något ändras. Gratis, inget konto.</span>
+      <span class="en">Paste the link into an RSS app such as Feeder. You get an alert the day something changes. Free, no account.</span>
     </p>
   </div>
 
@@ -91,11 +95,10 @@ TEMPLATE = """<!DOCTYPE html>
 
 <footer class="site-footer">
   <div class="wrap">
-    <p><strong>SV:</strong> En restanmälan är inte samma sak som lagerstatus på apotek — ett läkemedel kan finnas på hyllan trots restanmälan, eller vara slut utan att vara restanmält. Kontrollera lagerstatus på <a href="https://www.fass.se" rel="noopener">fass.se</a> och prata med apotekspersonal eller din läkare. Restkollen ger ingen medicinsk rådgivning.</p>
-    <p><strong>EN:</strong> A registered shortage (restanmälan) is not the same as pharmacy stock — a medicine can be on shelves while reported, or out of stock without being reported. Check <a href="https://www.fass.se" rel="noopener">fass.se</a> for pharmacy stock and talk to your pharmacist or doctor. Restkollen is not medical advice.</p>
-    <p>Källa / Source: <a href="https://www.dataportal.se/datasets/140_2136" rel="noopener">Läkemedelsverket — öppna data (CC BY 4.0)</a>.
-       <span class="verified"><span class="sv">Data senast verifierad:</span><span class="en">Data last verified:</span> <span class="js-verified">—</span></span></p>
-    <p><a href="https://github.com/shamathakur77/restkollen" rel="noopener">Öppen källkod / Open source</a> · <span class="sv">Inga kakor, ingen spårning.</span><span class="en">No cookies, no tracking.</span></p>
+    <p class="sv">En restanmälan betyder inte att läkemedlet är slut på ditt apotek. Det kan finnas på hyllan trots anmälan, eller vara slut utan att vara anmält. Kontrollera lagerstatus på <a href="https://www.fass.se" rel="noopener">fass.se</a>. Prata med apotek eller läkare innan du ändrar något i din behandling. Restkollen ger ingen medicinsk rådgivning.</p>
+    <p class="en">A registered shortage does not mean your pharmacy is out of stock. A medicine can be on the shelf despite a report, or out of stock without one. Check stock at <a href="https://www.fass.se" rel="noopener">fass.se</a>. Talk to your pharmacist or doctor before changing anything in your treatment. Restkollen is not medical advice.</p>
+    <p><span class="sv">Källa: <a href="https://www.dataportal.se/datasets/140_2136" rel="noopener">Läkemedelsverkets öppna data</a> (CC BY 4.0). <span class="verified">Senast verifierad: <span class="js-verified">–</span>.</span></span><span class="en">Source: <a href="https://www.dataportal.se/datasets/140_2136" rel="noopener">Swedish Medical Products Agency open data</a> (CC BY 4.0). <span class="verified">Last verified: <span class="js-verified">–</span>.</span></span></p>
+    <p><a href="https://github.com/shamathakur77/restkollen" rel="noopener"><span class="sv">Öppen källkod</span><span class="en">Open source</span></a> · <span class="sv">Inga kakor. Ingen spårning.</span><span class="en">No cookies. No tracking.</span></p>
   </div>
 </footer>
 

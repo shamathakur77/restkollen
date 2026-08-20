@@ -317,7 +317,7 @@ def write_feeds(all_events: list[dict], out_dir: Path) -> None:
 
     render(
         recent,
-        "Restkollen — alla ändringar / all changes",
+        "Restkollen: alla ändringar / all changes",
         "/",
         "Nya, avslutade och uppdaterade restanmälningar för läkemedel i Sverige. "
         "Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.",
@@ -327,7 +327,7 @@ def write_feeds(all_events: list[dict], out_dir: Path) -> None:
         evs = [e for e in recent if atc_in_category(e.get("atc"), cat["prefixes"])]
         render(
             evs,
-            f"Restkollen — {cat['sv']} / {cat['en']}",
+            f"Restkollen: {cat['sv']} / {cat['en']}",
             f"/kategori/{cat['slug']}",
             f"Ändringar i restanmälningar: {cat['sv']} (ATC {', '.join(cat['prefixes'])}). "
             "Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.",
@@ -339,14 +339,14 @@ def write_feeds(all_events: list[dict], out_dir: Path) -> None:
 
 def main() -> int:
     if not XML_IN.exists():
-        log("FATAL: work/current.xml missing — run fetch_data.py first")
+        log("FATAL: work/current.xml missing. run fetch_data.py first")
         return 2
     xml_bytes = XML_IN.read_bytes()
 
     try:
         records, creation = parse_records(xml_bytes)
     except Exception as e:
-        log(f"FATAL: XML parse failed: {type(e).__name__}: {e} — NOT publishing")
+        log(f"FATAL: XML parse failed: {type(e).__name__}: {e}. NOT publishing")
         return 2
     log(f"parsed {len(records)} product-level records (source creationDate {creation})")
 
@@ -366,14 +366,14 @@ def main() -> int:
         log(f"diff: {len(events)} events vs {len(prev_records)} previous records "
             f"({fraction:.1%} changed; limit {MAX_CHANGE_FRACTION:.0%})")
         if fraction > MAX_CHANGE_FRACTION:
-            log("FATAL: diff exceeds plausibility limit — NOT publishing. "
+            log("FATAL: diff exceeds plausibility limit. NOT publishing. "
                 "Yesterday's data remains live. Inspect the source manually.")
             return 2
     elif first_run:
         log("first run: no previous snapshot, publishing without diff events")
 
     # -------- rolling event log (merge by guid: same-day re-runs are
-    # additive and idempotent — a second run diffs against its own
+    # additive and idempotent. a second run diffs against its own
     # snapshot and must not erase the day's earlier events)
     all_events: list[dict] = []
     if EVENTS_JSON.exists():
@@ -413,7 +413,7 @@ def main() -> int:
             {
                 "lastVerified": now_stockholm_iso(),
                 "sourceCreationDate": creation,
-                "source": "Läkemedelsverket — Anmälda försäljningsuppehåll av läkemedel (öppna data, CC BY 4.0)",
+                "source": "Läkemedelsverket: Anmälda försäljningsuppehåll av läkemedel (öppna data, CC BY 4.0)",
                 "counts": {"total": len(records), "active": n_active,
                            "upcoming": n_upcoming, "ended": n_ended},
             },
