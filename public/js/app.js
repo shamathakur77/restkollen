@@ -37,6 +37,7 @@
     noResults: { sv: "Inga träffar bland aktuella restanmälningar.", en: "No matches among current shortage reports." },
     searchHint: { sv: "Sök på namn, substans eller ATC-kod.", en: "Search by name, substance or ATC code." },
     typeShortage: { sv: "Restanmälan", en: "Shortage report" },
+    typeCessation: { sv: "försäljning upphör", en: "sales ending" },
     started: { sv: "start", en: "from" },
     ended: { sv: "avslutad", en: "ended" }
   };
@@ -127,7 +128,9 @@
         back += " (" + t("prevDate") + " " + esc(ev.previousExpectedBack) + ")";
       }
     }
-    return '<li><span class="p-name">' + show(ev.product) + "</span>" + back +
+    var cess = ev.typeOfShortage === "CESSATION"
+      ? ' <span class="badge b-cessation">' + t("typeCessation") + "</span>" : "";
+    return '<li><span class="p-name">' + show(ev.product) + "</span>" + cess + back +
       (meta.length ? '<div class="p-meta">' + meta.join(" · ") + "</div>" : "") + "</li>";
   }
 
@@ -170,6 +173,9 @@
   function recordItem(r) {
     var badge = r.status === "upcoming"
       ? ' <span class="badge b-upcoming">' + t("upcoming") + "</span>" : "";
+    if (r.typeOfShortage === "CESSATION") {
+      badge += ' <span class="badge b-cessation">' + t("typeCessation") + "</span>";
+    }
     var backHtml = val(r.expectedBack)
       ? '<span class="s-back">' + t("expectedBack") + " " + esc(r.expectedBack) + "</span>"
       : '<span class="s-back missing">' + t("expectedBack") + ": " + t("missing") + "</span>";

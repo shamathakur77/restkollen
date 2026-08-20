@@ -142,6 +142,7 @@ h2 { font-size: 1.15rem; margin: 2rem 0 0.6rem; }
 }
 .badge.b-upcoming { background: var(--changed-bg); color: var(--changed); }
 .badge.b-active { background: var(--new-bg); color: var(--new); }
+.badge.b-cessation { background: #ececea; color: #55605e; }
 
 /* ---------- search ---------- */
 .search-box {

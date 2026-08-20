@@ -239,6 +239,8 @@ def event_pubdate(ev: dict) -> str:
 
 def event_item_xml(ev: dict, link: str) -> str:
     sv, en = LABELS[ev["type"]]
+    if ev.get("typeOfShortage") == "CESSATION" and ev["type"] == "new":
+        sv, en = "Försäljning upphör", "Sales ending (cessation reported)"
     name = ev.get("product") or "uppgift saknas / not reported"
     back = ev.get("expectedBack")
     back_sv = back or "uppgift saknas"
@@ -248,6 +250,10 @@ def event_item_xml(ev: dict, link: str) -> str:
         f"{sv} / {en}.",
         f"Produkt / Product: {name}.",
     ]
+    if ev.get("typeOfShortage") == "CESSATION":
+        desc_parts.append(
+            "Typ: anmält upphörande av försäljning / Type: reported sales cessation."
+        )
     if ev.get("substance"):
         desc_parts.append(f"Substans / Substance: {ev['substance']}.")
     if ev.get("atc"):
