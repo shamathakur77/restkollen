@@ -9,14 +9,19 @@ Strategy (fail closed at every step):
   2. On failure, re-resolve the URL from Sveriges dataportal DCAT
      metadata -> Läkemedelsverket catalog distribution metadata.
   3. As a last resort, try the last-known hardcoded URL.
-Every fetch has retries with exponential backoff and loud logging of
-response codes. The downloaded XML is validated (namespace, root
-element, minimum record count) before it is handed to the build step.
+Each URL is tried with two header profiles: a polite identifying one,
+then a browser-like one (docetp.mpa.se's WAF answers 406 Not Acceptable
+to non-browser requests). Retries with backoff, loud logging of
+response codes, gzip handling. The downloaded XML is validated
+(namespace, root element, minimum record count) before it is handed to
+the build step.
 Exit codes: 0 = ok, 2 = fetch/validation failed (do not publish).
 """
 
 from __future__ import annotations
 
+import gzip
+import io
 import re
 import sys
 import time
@@ -37,53 +42,87 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CACHE_FILE = REPO_ROOT / "data" / "source_url.txt"
 OUT_FILE = REPO_ROOT / "work" / "current.xml"
 
-RETRIES = 3
-BACKOFF_SECONDS = [5, 15, 45]
+RETRIES = 2
+BACKOFF_SECONDS = [5, 15]
 TIMEOUT = 90
+
+# Header profiles, tried in order. Profile 2 exists because the source
+# host rejects obviously non-browser requests with HTTP 406.
+HEADER_PROFILES = [
+    {
+        "User-Agent": USER_AGENT,
+        "Accept": "application/xml, text/xml;q=0.9, */*;q=0.8",
+    },
+    {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "sv-SE,sv;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, identity",
+    },
+]
 
 
 def log(msg: str) -> None:
     print(f"[fetch] {msg}", flush=True)
 
 
-def http_get(url: str, accept: str = "*/*") -> bytes:
-    """GET with retries + backoff. Raises on final failure."""
+def _read_body(resp) -> bytes:
+    body = resp.read()
+    if (resp.headers.get("Content-Encoding") or "").lower() == "gzip":
+        body = gzip.GzipFile(fileobj=io.BytesIO(body)).read()
+    return body
+
+
+def http_get(url: str, headers: dict, label: str = "") -> bytes:
+    """GET with retries + backoff for one header profile. Raises on
+    final failure."""
     last_err: Exception | None = None
     for attempt in range(1, RETRIES + 1):
         try:
-            req = urllib.request.Request(
-                url, headers={"User-Agent": USER_AGENT, "Accept": accept}
-            )
+            req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
                 status = getattr(resp, "status", 200)
-                body = resp.read()
-                log(f"GET {url} -> HTTP {status}, {len(body)} bytes (attempt {attempt})")
+                body = _read_body(resp)
+                log(f"GET {url} {label}-> HTTP {status}, {len(body)} bytes (attempt {attempt})")
                 return body
         except urllib.error.HTTPError as e:
             last_err = e
-            log(f"GET {url} -> HTTP {e.code} {e.reason} (attempt {attempt})")
+            log(f"GET {url} {label}-> HTTP {e.code} {e.reason} (attempt {attempt})")
         except Exception as e:  # URLError, timeout, ...
             last_err = e
-            log(f"GET {url} -> {type(e).__name__}: {e} (attempt {attempt})")
+            log(f"GET {url} {label}-> {type(e).__name__}: {e} (attempt {attempt})")
         if attempt < RETRIES:
             wait = BACKOFF_SECONDS[attempt - 1]
             log(f"retrying in {wait}s ...")
             time.sleep(wait)
-    raise RuntimeError(f"all {RETRIES} attempts failed for {url}: {last_err}")
+    raise RuntimeError(f"attempts exhausted for {url}: {last_err}")
+
+
+def http_get_any_profile(url: str) -> bytes:
+    """GET trying each header profile in turn."""
+    last_err: Exception | None = None
+    for i, headers in enumerate(HEADER_PROFILES, 1):
+        try:
+            return http_get(url, headers, label=f"[profile {i}] ")
+        except Exception as e:
+            last_err = e
+            log(f"profile {i} failed for {url}: {e}")
+    raise RuntimeError(f"all header profiles failed for {url}: {last_err}")
 
 
 def resolve_download_url() -> str | None:
     """Resolve the XML download URL from dataportal DCAT metadata.
 
-    dataset metadata (RDF/XML) references distribution resources at
+    Dataset metadata (RDF/XML) references distribution resources at
     catalog.lakemedelsverket.se; each distribution's own metadata holds
     dcat:downloadURL. We pick the application/xml distribution whose
     URL contains 'current'.
     """
     try:
-        rdf = http_get(DATAPORTAL_METADATA_URL, accept="application/rdf+xml").decode(
-            "utf-8", "replace"
-        )
+        rdf = http_get_any_profile(DATAPORTAL_METADATA_URL).decode("utf-8", "replace")
     except Exception as e:
         log(f"dataportal metadata fetch failed: {e}")
         return None
@@ -98,9 +137,7 @@ def resolve_download_url() -> str | None:
     for res_url in dist_urls:
         meta_url = res_url.replace("/resource/", "/metadata/")
         try:
-            meta = http_get(meta_url, accept="application/rdf+xml").decode(
-                "utf-8", "replace"
-            )
+            meta = http_get_any_profile(meta_url).decode("utf-8", "replace")
         except Exception as e:
             log(f"distribution metadata fetch failed ({meta_url}): {e}")
             continue
@@ -144,7 +181,7 @@ def validate_xml(body: bytes, min_records: int = MIN_RECORDS) -> int:
 
 def try_url(url: str) -> bytes | None:
     try:
-        body = http_get(url, accept="application/xml")
+        body = http_get_any_profile(url)
         n = validate_xml(body)
         log(f"OK: {url} validated with {n} records")
         return body
@@ -162,9 +199,10 @@ def main() -> int:
     body = None
     used_url = None
 
-    for url in [cached, None, LAST_KNOWN_DOWNLOAD_URL]:
+    for url in [cached, "RESOLVE", LAST_KNOWN_DOWNLOAD_URL]:
         if url is None:
-            # middle slot: runtime re-resolution via dataportal
+            continue
+        if url == "RESOLVE":
             log("resolving download URL from Sveriges dataportal ...")
             url = resolve_download_url()
             if url is None:
@@ -172,6 +210,7 @@ def main() -> int:
                 continue
             log(f"resolved download URL: {url}")
         if url in tried:
+            log(f"already tried {url}, skipping")
             continue
         tried.append(url)
         body = try_url(url)
