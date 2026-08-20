@@ -1,0 +1,76 @@
+name: Nightly data update
+
+on:
+  schedule:
+    # 06:00 Europe/Stockholm. GitHub cron is UTC: 04:00 UTC = 06:00 CEST
+    # (summer). In winter (CET) this runs 05:00 local — still before
+    # anyone's pharmacy visit; the source updates once per day.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - "public/data/**"
+      - "public/feeds/**"
+      - "data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests (fixture)
+        run: |
+          pip install pytest --quiet
+          python -m pytest tests/ -q
+
+      - name: Fetch source XML (fail closed)
+        run: python scripts/fetch_data.py
+
+      - name: Build data, diff and feeds (fail closed)
+        run: python scripts/build.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "restkollen-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data public/feeds data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: nightly update $(date -u +%F)"
+            git push
+          fi
+
+      - name: Deploy to Vercel
+        if: ${{ success() }}
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "VERCEL_TOKEN secret not set — skipping deploy step" \
+                 "(Vercel Git integration handles deploys instead)."
+            exit 0
+          fi
+          npx vercel@latest deploy --prod --yes --token "$VERCEL_TOKEN"
+
+      - name: Loud failure marker
+        if: ${{ failure() }}
+        run: |
+          echo "::error title=Restkollen data update FAILED::Fail-closed guard tripped or fetch failed. Yesterday's data remains live. Check the logs above for [fetch]/[build] errors."
+          exit 1
