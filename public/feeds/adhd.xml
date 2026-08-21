@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Restkollen — ADHD-läkemedel / ADHD medicines</title>
+    <title>Restkollen: ADHD-läkemedel / ADHD medicines</title>
     <link>https://restkollen.vercel.app/kategori/adhd</link>
     <description>Ändringar i restanmälningar: ADHD-läkemedel (ATC N06BA). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:05:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:43:03 +0200</lastBuildDate>
     <ttl>720</ttl>
   </channel>
 </rss>
