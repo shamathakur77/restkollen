@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:43:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:37:22 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Azithromycin Krka 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">5b194149e10df29831072a02</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Azithromycin Krka 500 mg Filmdragerad tablett. Substans / Substance: azitromycin (dihydrat). ATC: J01FA10. Tidigare förväntat åter / previously expected back: 2026-09-24. Förväntas åter / Expected back: 2026-10-29 / 2026-10-29. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Moxifloxacin Krka 400 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

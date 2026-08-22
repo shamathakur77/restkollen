@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:43:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:37:22 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pronaxen 250 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">cd1adde2a4c687fbaf04daba</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pronaxen 250 mg Tablett. Substans / Substance: naproxen. ATC: M01AE02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Pregabalin Krka 75 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

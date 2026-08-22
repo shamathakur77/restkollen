@@ -5,7 +5,14 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:43:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:37:22 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Yasmin 28 0,03 mg/3 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">c3bdca7928a5e21cff146c93</guid>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Yasmin 28 0,03 mg/3 mg Filmdragerad tablett. Substans / Substance: drospirenon | etinylestradiol. ATC: G03AA12. Tidigare förväntat åter / previously expected back: 2026-08-21. Förväntas åter / Expected back: 2026-08-31 / 2026-08-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
   </channel>
 </rss>
