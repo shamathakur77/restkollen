@@ -5,7 +5,14 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:50:57 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:42:45 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Victoza 6 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">b216cb15af871a951c11eb88</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Victoza 6 mg/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: liraglutid. ATC: A10BJ02. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2028-08-31 / 2028-08-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 24 Aug 2026 06:50:57 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:42:45 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Kåvepenin Frukt 50 mg/ml Granulat till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">559c25e75832cc04696f0786</guid>
+      <pubDate>Tue, 25 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Kåvepenin Frukt 50 mg/ml Granulat till oral suspension. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2027-02-01 / 2027-02-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Azithromycin Krka 500 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
