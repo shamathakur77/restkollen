@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:42:45 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:44:20 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Ciprofloxacin Krka 250 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">6edd7ee74827a5e75c2410e4</guid>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ciprofloxacin Krka 250 mg Filmdragerad tablett. Substans / Substance: ciprofloxacinhydroklorid (monohydrat). ATC: J01MA02. Tidigare förväntat åter / previously expected back: 2026-09-04. Förväntas åter / Expected back: 2026-09-25 / 2026-09-25. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Kåvepenin Frukt 50 mg/ml Granulat till oral suspension</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
