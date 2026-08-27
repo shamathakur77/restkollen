@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:44:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:04:22 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Pioglitazone Actavis 30 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">f9b2b50f8592fd5d72d84924</guid>
+      <pubDate>Thu, 27 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Pioglitazone Actavis 30 mg Tablett. Substans / Substance: pioglitazonhydroklorid. ATC: A10BG03. Förväntas åter / Expected back: 2026-10-30 / 2026-10-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Victoza 6 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
