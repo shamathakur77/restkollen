@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:56:16 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pregabalin Teva 150 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">2e1ed3a37ef59795e2cf3f60</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pregabalin Teva 150 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Palexia Depot 250 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">c1c27995576de94c2b1b8d58</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Palexia Depot 250 mg Depottablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: tapentadolhydroklorid. ATC: N02AX06. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Pamol 500 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:56:16 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Ciprofloxacin Accord 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">667ab998f00d40b8fc978085</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ciprofloxacin Accord 750 mg Filmdragerad tablett. Substans / Substance: ciprofloxacinhydroklorid (monohydrat). ATC: J01MA02. Tidigare förväntat åter / previously expected back: 2026-08-28. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Azactam  Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">c26931b6d83d2b51b1a8d8b9</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Azactam  Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: aztreonam. ATC: J01DF01. Förväntas åter / Expected back: 2028-08-31 / 2028-08-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Tobramycin EQL Pharma 40 mg/ml Injektionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:56:16 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Pioglitazone Accord 45 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">dddb192235bd19359a3f477f</guid>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Pioglitazone Accord 45 mg Tablett. Substans / Substance: pioglitazonhydroklorid. ATC: A10BG03. Förväntas åter / Expected back: 2027-01-29 / 2027-01-29. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Pioglitazone Actavis 30 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
