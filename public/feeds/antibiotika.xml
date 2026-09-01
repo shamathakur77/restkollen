@@ -5,8 +5,50 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:41:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:17:47 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Bensylpenicillin Viatris  Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">07dbd2a967889b36d4d0c982</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Bensylpenicillin Viatris  Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: bensylpenicillinnatrium. ATC: J01CE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Levofloxacin Krka 250 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">09941794b2e47960a2e8dc7c</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Levofloxacin Krka 250 mg Filmdragerad tablett. Substans / Substance: levofloxacinhemihydrat. ATC: J01MA12. Tidigare förväntat åter / previously expected back: 2026-10-01. Förväntas åter / Expected back: 2027-01-01 / 2027-01-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Amimox 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">03dfef0424fcaf1ebbf2cc60</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amimox 750 mg Filmdragerad tablett. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2026-11-30. Förväntas åter / Expected back: 2027-02-28 / 2027-02-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Amimox 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">20f8be575de51bb4421262e6</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amimox 750 mg Filmdragerad tablett. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2026-12-28. Förväntas åter / Expected back: 2027-02-28 / 2027-02-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Kolistimetatnatrium Accord 1 miljon IE Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">2b522f2881900e6c513481c2</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Kolistimetatnatrium Accord 1 miljon IE Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: kolistimetatnatrium. ATC: J01XB01. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Tikacillin 1 g Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">839ad3fb066d59c6de5769e3</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Tikacillin 1 g Filmdragerad tablett. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2027-03-31 / 2027-03-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Ciprofloxacin Accord 750 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

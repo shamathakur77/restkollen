@@ -5,8 +5,57 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:41:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:17:47 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Palladon 20 mg/ml Injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">6a3fdf71928d06f06f0e4a4b</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Palladon 20 mg/ml Injektions-/infusionsvätska, lösning. Substans / Substance: hydromorfonhydroklorid. ATC: N02AA03. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Palladon 50 mg/ml Injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">19106fdaaadc9f6975571029</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Palladon 50 mg/ml Injektions-/infusionsvätska, lösning. Substans / Substance: hydromorfonhydroklorid. ATC: N02AA03. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Tapentadol Depot Krka 100 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">0acedb96f7a5983e61c3f447</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Tapentadol Depot Krka 100 mg Depottablett. Substans / Substance: tapentadolmaleathemihydrat. ATC: N02AX06. Tidigare förväntat åter / previously expected back: 2026-10-02. Förväntas åter / Expected back: 2026-10-30 / 2026-10-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Dolatramyl 150 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">014b7a446e4e4fbea1fe77c0</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Dolatramyl 150 mg Depottablett. Substans / Substance: tramadolhydroklorid. ATC: N02AX02. Tidigare förväntat åter / previously expected back: 2026-10-30. Förväntas åter / Expected back: 2027-03-31 / 2027-03-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Dolatramyl 100 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">de9dac15229dd0ee5c757ac9</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Dolatramyl 100 mg Depottablett. Substans / Substance: tramadolhydroklorid. ATC: N02AX02. Tidigare förväntat åter / previously expected back: 2026-10-26. Förväntas åter / Expected back: 2026-12-30 / 2026-12-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Pregabalin Krka 75 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">e6c6f28730dc492e8d31a10f</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Pregabalin Krka 75 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-09-10. Förväntas åter / Expected back: 2026-09-04 / 2026-09-04. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Sumatriptan Viatris 50 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">944228693e427f407e626fcb</guid>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Sumatriptan Viatris 50 mg Filmdragerad tablett. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Tidigare förväntat åter / previously expected back: 2026-12-30. Förväntas åter / Expected back: 2027-04-30 / 2027-04-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Pregabalin Teva 150 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
