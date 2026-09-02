@@ -5,8 +5,50 @@
     <link>https://restkollen.vercel.app/kategori/adhd</link>
     <description>Ändringar i restanmälningar: ADHD-läkemedel (ATC N06BA). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:17:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Affenid 10 mg Kapsel med modifierad frisättning, hård</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">abf30c5efdf9a1aaa7d78ede</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Affenid 10 mg Kapsel med modifierad frisättning, hård. Substans / Substance: metylfenidathydroklorid. ATC: N06BA04. Förväntas åter / Expected back: 2026-10-20 / 2026-10-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Affenid 30 mg Kapsel med modifierad frisättning, hård</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">cfb2891c2d7fc901c493e186</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Affenid 30 mg Kapsel med modifierad frisättning, hård. Substans / Substance: metylfenidathydroklorid. ATC: N06BA04. Förväntas åter / Expected back: 2026-10-20 / 2026-10-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Affenid 40 mg Kapsel med modifierad frisättning, hård</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">2fbdd90348e07a4b024adf5c</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Affenid 40 mg Kapsel med modifierad frisättning, hård. Substans / Substance: metylfenidathydroklorid. ATC: N06BA04. Förväntas åter / Expected back: 2026-10-20 / 2026-10-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Affenid 60 mg Kapsel med modifierad frisättning, hård</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">ad91a83e0f0a0691d7aa42c1</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Affenid 60 mg Kapsel med modifierad frisättning, hård. Substans / Substance: metylfenidathydroklorid. ATC: N06BA04. Förväntas åter / Expected back: 2026-11-20 / 2026-11-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Dexamfetamin Sea Pharma 10 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">b343944e91cf5050410a7053</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Dexamfetamin Sea Pharma 10 mg Tablett. Substans / Substance: dexamfetaminsulfat. ATC: N06BA02. Förväntas åter / Expected back: 2026-10-31 / 2026-10-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Dexamfetamin Sea Pharma 20 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">fbc9cbb8d2c79c73a5ea8227</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Dexamfetamin Sea Pharma 20 mg Tablett. Substans / Substance: dexamfetaminsulfat. ATC: N06BA02. Förväntas åter / Expected back: 2026-10-31 / 2026-10-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Metylfenidat Teva 60 mg Kapsel med modifierad frisättning, hård</title>
       <link>https://restkollen.vercel.app/kategori/adhd</link>

@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:17:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Estrogel 0,75 mg/dos Transdermal gel</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">7e9f8c36cb35f6f5a2d2b133</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Estrogel 0,75 mg/dos Transdermal gel. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-03 / 2026-09-03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Yasmin 28 0,03 mg/3 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>

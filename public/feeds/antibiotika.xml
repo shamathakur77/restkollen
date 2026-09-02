@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 01 Sep 2026 11:17:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Amoxicillin 2care4 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">b80b726fc22fb56cc7d8e006</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amoxicillin 2care4 750 mg Filmdragerad tablett. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2026-09-01. Förväntas åter / Expected back: 2026-09-21 / 2026-09-21. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Ciprofloxacin Fresenius Kabi 2 mg/ml Infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">b69b72d38c303d22f445cd31</guid>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Ciprofloxacin Fresenius Kabi 2 mg/ml Infusionsvätska, lösning. Substans / Substance: ciprofloxacinvätesulfat. ATC: J01MA02. Förväntas åter / Expected back: 2026-10-30 / 2026-10-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Bensylpenicillin Viatris  Pulver till injektions-/infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
