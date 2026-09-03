@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:46:03 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Desolett 28  Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">2c8db57647970b8d01272fd0</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Desolett 28  Tablett. Substans / Substance: desogestrel | etinylestradiol. ATC: G03AA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Amorest 28 250 mikrogram/35 mikrogram Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">9df5c2a7e46c4ae6180bed26</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amorest 28 250 mikrogram/35 mikrogram Tablett. Substans / Substance: etinylestradiol | norgestimat. ATC: G03AA11. Tidigare förväntat åter / previously expected back: 2026-09-10. Förväntas åter / Expected back: 2026-10-01 / 2026-10-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Estrogel 0,75 mg/dos Transdermal gel</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>

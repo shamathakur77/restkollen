@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/adhd</link>
     <description>Ändringar i restanmälningar: ADHD-läkemedel (ATC N06BA). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:46:03 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Atomoxetine STADA 40 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">a5b80d79d1890c39a2264e5d</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Atomoxetine STADA 40 mg Kapsel, hård. Substans / Substance: atomoxetinhydroklorid. ATC: N06BA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Dexatin 5 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">6fca862f321e992f33fb9f6b</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Dexatin 5 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: dexamfetaminsulfat. ATC: N06BA02. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Affenid 10 mg Kapsel med modifierad frisättning, hård</title>
       <link>https://restkollen.vercel.app/kategori/adhd</link>

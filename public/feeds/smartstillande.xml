@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:37:19 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:46:03 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pronaxen 250 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">2589b82e0f93aa7169385d06</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pronaxen 250 mg Tablett. Substans / Substance: naproxen. ATC: M01AE02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Paracetamol Orifarm 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">ca03c144972d593e0a440bfd</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Paracetamol Orifarm 500 mg Filmdragerad tablett. Substans / Substance: paracetamol. ATC: N02BE01. Tidigare förväntat åter / previously expected back: 2026-09-04. Förväntas åter / Expected back: 2026-09-11 / 2026-09-11. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Fentanyl Orion 25 mikrogram/timme Depotplåster</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">c1e972b2eb42e669708de64a</guid>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Fentanyl Orion 25 mikrogram/timme Depotplåster. Substans / Substance: fentanyl. ATC: N02AB03. Tidigare förväntat åter / previously expected back: 2026-09-01. Förväntas åter / Expected back: 2026-10-01 / 2026-10-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Pregabalin Krka 150 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
