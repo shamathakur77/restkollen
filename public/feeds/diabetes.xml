@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:46:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:41:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Vildagliptin/Metformin hydrochloride Accord 50 mg/850 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">e6f8f61f27ed7c4c82f332f8</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Vildagliptin/Metformin hydrochloride Accord 50 mg/850 mg Filmdragerad tablett. Substans / Substance: metforminhydroklorid | vildagliptin. ATC: A10BD08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Försäljning upphör: Vildagliptin/Metformin hydrochloride Accord 50 mg/850 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>

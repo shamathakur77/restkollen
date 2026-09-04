@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:46:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:41:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Ciproxin 50 mg/ml Granulat och vätska till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">d5b5b5ed380256e58b39b6cb</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ciproxin 50 mg/ml Granulat och vätska till oral suspension. Substans / Substance: ciprofloxacin. ATC: J01MA02. Tidigare förväntat åter / previously expected back: 2026-09-09. Förväntas åter / Expected back: 2026-12-10 / 2026-12-10. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Meropenem STADA 1 g Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">21a2433774bf9a62b0be97c4</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Meropenem STADA 1 g Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: meropenemtrihydrat. ATC: J01DH02. Förväntas åter / Expected back: 2027-02-28 / 2027-02-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Meropenem STADA 500 mg Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">4b577f45127a1b7b078081df</guid>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Meropenem STADA 500 mg Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: meropenemtrihydrat. ATC: J01DH02. Förväntas åter / Expected back: 2027-02-28 / 2027-02-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Amoxicillin 2care4 750 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
