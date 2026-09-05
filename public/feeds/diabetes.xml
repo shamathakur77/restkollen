@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:41:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:13:31 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">c6ba8410213966253b1c364b</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: insulin, glargin. ATC: A10AE04. Förväntas åter / Expected back: 2026-09-24 / 2026-09-24. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Vildagliptin/Metformin hydrochloride Accord 50 mg/850 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>

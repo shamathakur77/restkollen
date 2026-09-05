@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:41:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:13:31 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pregabalin Krka 75 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">f1b0191061577ef8830c1d44</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pregabalin Krka 75 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Pronaxen 250 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

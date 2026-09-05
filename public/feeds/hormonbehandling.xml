@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:41:40 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:13:31 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Prolutex 25 mg Injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">ba96ce2ac859ab9dc0c53c8b</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Prolutex 25 mg Injektionsvätska, lösning. Substans / Substance: progesteron. ATC: G03DA04. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Estradot 25 mikrogram/24 timmar Depotplåster</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">7f0b60c609ec82a056d8db3f</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Estradot 25 mikrogram/24 timmar Depotplåster. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Tidigare förväntat åter / previously expected back: 2026-09-25. Förväntas åter / Expected back: 2026-09-18 / 2026-09-18. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Testosteron Medical Valley 16,2 mg/g Transdermal gel</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">9a6af273f942d47499b39a36</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Testosteron Medical Valley 16,2 mg/g Transdermal gel. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: testosteron. ATC: G03BA03. Förväntas åter / Expected back: 2026-09-11 / 2026-09-11. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Desolett 28  Tablett</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
