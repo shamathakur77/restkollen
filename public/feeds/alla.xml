@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/</link>
     <description>Nya, avslutade och uppdaterade restanmälningar för läkemedel i Sverige. Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:31:10 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:08:33 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Estrogel 0,75 mg/dos Transdermal gel</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">6671dd1ed8a3405de3b3d453</guid>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Estrogel 0,75 mg/dos Transdermal gel. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Tidigare förväntat åter / previously expected back: 2026-09-03. Förväntas åter / Expected back: 2026-09-07 / 2026-09-07. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Pacligen 6 mg/ml Koncentrat till infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/</link>
@@ -699,13 +706,6 @@
       <guid isPermaLink="false">c2a0257d968768b6a2d8ffa0</guid>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
       <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Remsima 100 mg Pulver till konc. till infusionsvätska, lösning. Substans / Substance: infliximab. ATC: L04AB02. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Comtess 200 mg Filmdragerad tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">3d32014137cbc36e1ae83da9</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Comtess 200 mg Filmdragerad tablett. Substans / Substance: entakapon. ATC: N04BX02. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
     </item>
   </channel>
 </rss>
