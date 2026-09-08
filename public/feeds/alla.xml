@@ -5,8 +5,183 @@
     <link>https://restkollen.vercel.app/</link>
     <description>Nya, avslutade och uppdaterade restanmälningar för läkemedel i Sverige. Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:08:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:45:05 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pantoprazol Orion 20 mg Enterotablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">d5f44c6e0d8225375dc9a3a8</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pantoprazol Orion 20 mg Enterotablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: pantoprazolnatriumseskvihydrat. ATC: A02BC02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Paracetamol Orifarm 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">e4f52c38a0295bedf8c0ccd8</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Paracetamol Orifarm 500 mg Filmdragerad tablett. Substans / Substance: paracetamol. ATC: N02BE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Estrogel 0,75 mg/dos Transdermal gel</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">4d633dbf70c84470731e3cfb</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Estrogel 0,75 mg/dos Transdermal gel. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Cystadrops 3,8 mg/ml Ögondroppar, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">7185965fce479e57bb136eb4</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Cystadrops 3,8 mg/ml Ögondroppar, lösning. Substans / Substance: merkaptaminhydroklorid. ATC: S01XA21. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Ivabradin Krka 5 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">b13850a00d66859979ba990a</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ivabradin Krka 5 mg Filmdragerad tablett. Substans / Substance: ivabradinhydroklorid. ATC: C01EB17. Tidigare förväntat åter / previously expected back: 2026-10-08. Förväntas åter / Expected back: 2026-10-16 / 2026-10-16. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Crestor 40 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">5d3be4bd7589bb368cdf1c2e</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Crestor 40 mg Filmdragerad tablett. Substans / Substance: rosuvastatinkalcium. ATC: C10AA07. Tidigare förväntat åter / previously expected back: 2029-08-01. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Insistor vet. 10 mg/ml Injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">87abb89fea6cb40c45aae33a</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Insistor vet. 10 mg/ml Injektionsvätska, lösning. Substans / Substance: metadonhydroklorid. ATC: QN02AC90. Tidigare förväntat åter / previously expected back: 2026-09-11. Förväntas åter / Expected back: 2026-10-19 / 2026-10-19. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">f830213c882bb25b1828398b</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-09-15. Förväntas åter / Expected back: 2026-10-30 / 2026-10-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Ziprasidon Krka 60 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">0b16acaa2923923a317b1888</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ziprasidon Krka 60 mg Kapsel, hård. Substans / Substance: ziprasidonvätesulfatdihydrat. ATC: N05AE04. Tidigare förväntat åter / previously expected back: 2026-10-08. Förväntas åter / Expected back: 2026-11-13 / 2026-11-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Emovat 0,05 % Kräm</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">737f006eb271a1a34ddea9b9</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Emovat 0,05 % Kräm. Substans / Substance: klobetasonbutyrat. ATC: D07AB01. Tidigare förväntat åter / previously expected back: 2026-10-02. Förväntas åter / Expected back: 2026-10-13 / 2026-10-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Solifenacin Krka 5 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">88a8ecb9a2eba5aebf06dcf2</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Solifenacin Krka 5 mg Filmdragerad tablett. Substans / Substance: solifenacinsuccinat. ATC: G04BD08. Tidigare förväntat åter / previously expected back: 2026-09-24. Förväntas åter / Expected back: 2026-09-18 / 2026-09-18. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Closamectin vet 5 mg/ml + 200 mg/ml Pour-on, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">1d725430943bf7bba5440a6d</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Closamectin vet 5 mg/ml + 200 mg/ml Pour-on, lösning. Substans / Substance: ivermektin | klosantelnatriumdihydrat. ATC: QP54AA51. Tidigare förväntat åter / previously expected back: 2026-09-11. Förväntas åter / Expected back: 2026-10-09 / 2026-10-09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Oktreotid SUN 500 mikrogram/ml Injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">8566246d6b2634bf9ff19095</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Oktreotid SUN 500 mikrogram/ml Injektionsvätska, lösning. Substans / Substance: oktreotidacetat. ATC: H01CB02. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-10-23 / 2026-10-23. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Act-HIB  Pulver och vätska till injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">544f556a803732cf5e998382</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Act-HIB  Pulver och vätska till injektionsvätska, lösning. Substans / Substance: Haemophilus influenzae typ B polysackarid. ATC: J07AG01. Tidigare förväntat åter / previously expected back: 2026-09-07. Förväntas åter / Expected back: 2026-09-14 / 2026-09-14. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Priorix  Pulver och vätska till injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">66333cdc52f8d5b0826548d4</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Priorix  Pulver och vätska till injektionsvätska, lösning. Substans / Substance: mässlingsvirus, stam Schwarz, levande försvagat | påssjukevirus, stam RIT 4385, levande försvagat | rubellavirus, stam Wistar RA 27/3, levande försvagat. ATC: J07BD52. Förväntas åter / Expected back: 2026-11-10 / 2026-11-10. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Levosimendan Amdipharm 2,5 mg/ml Koncentrat till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">27ffe983ed652e892d18cf30</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Levosimendan Amdipharm 2,5 mg/ml Koncentrat till infusionsvätska, lösning. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: levosimendan. ATC: C01CX08. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Levosimendan Amdipharm 2,5 mg/ml Koncentrat till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">eb1fc7026e398a4a9a735389</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Levosimendan Amdipharm 2,5 mg/ml Koncentrat till infusionsvätska, lösning. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: levosimendan. ATC: C01CX08. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Rybelsus 14 mg Tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">2da389fab888178df9af39b8</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Rybelsus 14 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: semaglutid. ATC: A10BJ06. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Rybelsus 3 mg Tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">f1af4ccf0cda6a3db1d22568</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Rybelsus 3 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: semaglutid. ATC: A10BJ06. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Anafranil 12,5 mg/ml Injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">9861b7d5adda37a6480a9140</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Anafranil 12,5 mg/ml Injektionsvätska, lösning. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: klomipraminhydroklorid. ATC: N06AA04. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Iberogast  Orala droppar, lösning</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">b6ed1d3838a5b15e155069be</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Iberogast  Orala droppar, lösning. Substans / Substance: Angelica archangelica (kvanne) rot; flytande extrakt (1:2,5-3,5); etanol 30 % | Carum carvi (kummin) frukt; flytande extrakt (1:2,5-3,5); etanol 30 % | Chelidonium majus (skelört) ört; flytande extrakt (1:2,5-3,5); etanol 30 % | Glycyrrhiza glabra (lakritsrot) rot; flytande extrakt (1:2,5-3,5); etanol 30 % | Iberis amara (blomsteriberis) färsk hel växt; flytande extrakt (1:1,5-2,5); etanol 50 % | Matricaria recutita (kamomill) blomma; flytande extrakt (1:2-4); etanol 30 % | Melissa officinalis (citronmeliss) blad; flytande extrakt (1:2,5-3,5); etanol 30 % | Mentha piperita (pepparmynta) blad; flytande extrakt (1:2,5-3,5); etanol 30 % | Silybum marianum (mariatistel) frukt; flytande extrakt (1:2,5-3,5); etanol 30 %. ATC: A03. Förväntas åter / Expected back: 2027-01-15 / 2027-01-15. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Valerina Forte  Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">3e7d524e7ee625b9ebc50259</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Valerina Forte  Filmdragerad tablett. Substans / Substance: Valeriana officinalis (valeriana) torkad rot; torrt extrakt (5,25-7,5:1); etanol 60 %. Innehåller 25 % hjälpämnen.. ATC: N05CM09. Förväntas åter / Expected back: 2026-09-07 / 2026-09-07. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Nobivac Tricat Novum vet.  Frystorkat pulver o vätska t. inj.vätska, susp.</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">d8bf70d327028c832fb4962e</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Nobivac Tricat Novum vet.  Frystorkat pulver o vätska t. inj.vätska, susp.. Substans / Substance: kattcalicivirus, stam F9, levande försvagat | kattpestvirus, stam MW-1, levande försvagat | kattsnuvevirus, stam G2620A, levande försvagat. ATC: QI06AD04. Förväntas åter / Expected back: 2026-10-19 / 2026-10-19. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Carvedilol Aurobindo 12,5 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">47eb1cb28117079e1f6dcba2</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Carvedilol Aurobindo 12,5 mg Filmdragerad tablett. Substans / Substance: karvedilol. ATC: C07AG02. Förväntas åter / Expected back: 2027-12-31 / 2027-12-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Carvedilol Aurobindo 25 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/</link>
+      <guid isPermaLink="false">e1365c7e108db005efaaec27</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Carvedilol Aurobindo 25 mg Filmdragerad tablett. Substans / Substance: karvedilol. ATC: C07AG02. Förväntas åter / Expected back: 2027-12-31 / 2027-12-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Estrogel 0,75 mg/dos Transdermal gel</title>
       <link>https://restkollen.vercel.app/</link>
@@ -531,181 +706,6 @@
       <guid isPermaLink="false">caa1351278ebdd79890a0c1d</guid>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
       <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Rivastor 9,5 mg/24 timmar Depotplåster. Substans / Substance: rivastigmin. ATC: N06DA03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Toilax 5 mg Enterotablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">a78a4278e8886cc7e4fd1705</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Toilax 5 mg Enterotablett. Substans / Substance: bisakodyl. ATC: A06AB02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Absenor Depot 500 mg Depottablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">3f7a4ac6b3458d95de852196</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Absenor Depot 500 mg Depottablett. Substans / Substance: natriumvalproat. ATC: N03AG01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Desolett 28  Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">2c8db57647970b8d01272fd0</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Desolett 28  Tablett. Substans / Substance: desogestrel | etinylestradiol. ATC: G03AA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Lamotrigin Orion 25 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">317797b49b46263389dcd76f</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Lamotrigin Orion 25 mg Tablett. Substans / Substance: lamotrigin. ATC: N03AX09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Levodopa/Carbidopa/Entacapone Orion 150 mg/37,5 mg/200 mg Filmdragerad tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">8c1fb497a53f4b366849a8e3</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Levodopa/Carbidopa/Entacapone Orion 150 mg/37,5 mg/200 mg Filmdragerad tablett. Substans / Substance: entakapon | karbidopa (monohydrat) | levodopa. ATC: N04BA03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Pronaxen 250 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">2589b82e0f93aa7169385d06</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pronaxen 250 mg Tablett. Substans / Substance: naproxen. ATC: M01AE02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Rogaine forte 50 mg/ml Kutan lösning</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">10aa277f3edb057b89056fba</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Rogaine forte 50 mg/ml Kutan lösning. Substans / Substance: minoxidil. ATC: D11AX01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Gadovist 1,0 mmol/ml Injektionsvätska, lösn.i förf. spruta/cylinderamp.</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">cb7be4d4ac9ab1f07d42afe7</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Gadovist 1,0 mmol/ml Injektionsvätska, lösn.i förf. spruta/cylinderamp.. Substans / Substance: gadobutrol (vattenfri). ATC: V08CA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Credelio 56 mg Tuggtablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">7835f0a66a57c92a93db9afe</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Credelio 56 mg Tuggtablett. Substans / Substance: lotilaner. ATC: QP53BE04. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Rogaine forte 50 mg/ml Kutan lösning</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">6d5fe5ca903e6d1fc9c12250</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Rogaine forte 50 mg/ml Kutan lösning. Substans / Substance: minoxidil. ATC: D11AX01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Gadovist 1,0 mmol/ml Injektionsvätska, lösning</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">93b6bd18ea0d642d926b7461</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Gadovist 1,0 mmol/ml Injektionsvätska, lösning. Substans / Substance: gadobutrol (vattenfri). ATC: V08CA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 20 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">7b7cf64e2cc75599eb4a02a2</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 20 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-19. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 5 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">aa65f139b333190d917e7549</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 5 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-19. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 10 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">5838d5621bd088d53b677f9e</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 10 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-27. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 10 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">7ab84dfea535f0607d303756</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 10 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-27. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 10 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">6b6cac9db14ea60aa11e40c4</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 10 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-27. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 5 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">328bf3cd59466c7b2b2cef68</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 5 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-12-03. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Paracetamol Orifarm 500 mg Filmdragerad tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">ca03c144972d593e0a440bfd</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Paracetamol Orifarm 500 mg Filmdragerad tablett. Substans / Substance: paracetamol. ATC: N02BE01. Tidigare förväntat åter / previously expected back: 2026-09-04. Förväntas åter / Expected back: 2026-09-11 / 2026-09-11. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 20 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">c5e619764e75dd63b30fd4d3</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 20 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-12-03. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Enalapril Krka 5 mg Tablett</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">9bd9bc48109e53825b02b0a4</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Enalapril Krka 5 mg Tablett. Substans / Substance: enalaprilmaleat. ATC: C09AA02. Tidigare förväntat åter / previously expected back: 2026-11-27. Förväntas åter / Expected back: 2027-04-08 / 2027-04-08. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Fentanyl Orion 25 mikrogram/timme Depotplåster</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">c1e972b2eb42e669708de64a</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Fentanyl Orion 25 mikrogram/timme Depotplåster. Substans / Substance: fentanyl. ATC: N02AB03. Tidigare förväntat åter / previously expected back: 2026-09-01. Förväntas åter / Expected back: 2026-10-01 / 2026-10-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Rivastor 4,6 mg/24 timmar Depotplåster</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">9e1aeddc9a67f7e05e9794af</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Rivastor 4,6 mg/24 timmar Depotplåster. Substans / Substance: rivastigmin. ATC: N06DA03. Tidigare förväntat åter / previously expected back: 2026-09-01. Förväntas åter / Expected back: 2026-10-01 / 2026-10-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Restanmälan avslutad: Atomoxetine STADA 40 mg Kapsel, hård</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">a5b80d79d1890c39a2264e5d</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Atomoxetine STADA 40 mg Kapsel, hård. Substans / Substance: atomoxetinhydroklorid. ATC: N06BA09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Ivomec vet 10 mg/ml Injektionsvätska, lösning</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">dbc968e0815454b5f72c5f5a</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ivomec vet 10 mg/ml Injektionsvätska, lösning. Substans / Substance: ivermektin. ATC: QP54AA01. Tidigare förväntat åter / previously expected back: 2026-11-05. Förväntas åter / Expected back: 2026-10-30 / 2026-10-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
-    </item>
-    <item>
-      <title>Nytt förväntat datum: Remsima 100 mg Pulver till konc. till infusionsvätska, lösning</title>
-      <link>https://restkollen.vercel.app/</link>
-      <guid isPermaLink="false">c2a0257d968768b6a2d8ffa0</guid>
-      <pubDate>Thu, 03 Sep 2026 06:00:00 +0200</pubDate>
-      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Remsima 100 mg Pulver till konc. till infusionsvätska, lösning. Substans / Substance: infliximab. ATC: L04AB02. Tidigare förväntat åter / previously expected back: 2026-08-31. Förväntas åter / Expected back: 2026-09-30 / 2026-09-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
     </item>
   </channel>
 </rss>

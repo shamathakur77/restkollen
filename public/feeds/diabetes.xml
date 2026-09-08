@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:08:33 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:45:05 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Försäljning upphör: Rybelsus 14 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">2da389fab888178df9af39b8</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Rybelsus 14 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: semaglutid. ATC: A10BJ06. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Rybelsus 3 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">f1af4ccf0cda6a3db1d22568</guid>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Rybelsus 3 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: semaglutid. ATC: A10BJ06. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
