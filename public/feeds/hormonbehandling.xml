@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:45:05 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:51:10 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Divigel 1 mg Gel</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">f0e39740702cb8ae92938f14</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Divigel 1 mg Gel. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Divigel 0,5 mg Gel</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">f21a2b75746882968f382218</guid>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Divigel 0,5 mg Gel. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Tidigare förväntat åter / previously expected back: 2026-11-02. Förväntas åter / Expected back: 2026-09-14 / 2026-09-14. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Estrogel 0,75 mg/dos Transdermal gel</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
