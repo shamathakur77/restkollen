@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:51:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:51:06 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Benzylpenicillin Panpharma  Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">4cb52459533f82ae60fa2e92</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Benzylpenicillin Panpharma  Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: bensylpenicillinnatrium. ATC: J01CE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Levofloxacin Viatris 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">58bbe00d47d634dac0f919ab</guid>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Levofloxacin Viatris 500 mg Filmdragerad tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: levofloxacinhemihydrat. ATC: J01MA12. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Piperacillin/Tazobactam Sandoz 4 g/0,5 g Pulver till infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
