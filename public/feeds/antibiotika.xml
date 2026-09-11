@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:51:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Piperacillin/Tazobactam Sandoz 4 g/0,5 g Pulver till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">07a0e06c4069d4d2345d67fb</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Piperacillin/Tazobactam Sandoz 4 g/0,5 g Pulver till infusionsvätska, lösning. Substans / Substance: piperacillinnatrium | tazobaktamnatrium. ATC: J01CR05. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Benzylpenicillin Panpharma  Pulver till injektions-/infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

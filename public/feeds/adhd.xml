@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/adhd</link>
     <description>Ändringar i restanmälningar: ADHD-läkemedel (ATC N06BA). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:51:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Försäljning upphör: Attentin 5 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">69f9c5a75aa9b51fce2cde35</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Attentin 5 mg Tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: dexamfetaminsulfat. ATC: N06BA02. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Dexatin 10 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/adhd</link>

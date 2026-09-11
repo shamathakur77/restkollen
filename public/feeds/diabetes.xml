@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:51:06 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Sitagliptin Teva 100 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">1cf89c337a58a6fac767ef73</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Sitagliptin Teva 100 mg Filmdragerad tablett. Substans / Substance: sitagliptinmalat. ATC: A10BH01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Metformin Teva B.V. 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">e68003f66b07cad5a9ca0a12</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Metformin Teva B.V. 500 mg Filmdragerad tablett. Substans / Substance: metforminhydroklorid. ATC: A10BA02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">c9a6c44deeae42f4de04f99c</guid>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: insulin, glargin. ATC: A10AE04. Tidigare förväntat åter / previously expected back: 2026-09-10. Förväntas åter / Expected back: 2026-09-22 / 2026-09-22. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Försäljning upphör: Rybelsus 7 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
