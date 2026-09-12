@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:30:55 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Ertapenem Fresenius Kabi 1 g Pulver till konc. till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">9781c6d95f4eda250dc6a390</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Ertapenem Fresenius Kabi 1 g Pulver till konc. till infusionsvätska, lösning. Substans / Substance: ertapenemmononatrium. ATC: J01DH03. Förväntas åter / Expected back: 2026-09-22 / 2026-09-22. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Piperacillin/Tazobactam Sandoz 4 g/0,5 g Pulver till infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

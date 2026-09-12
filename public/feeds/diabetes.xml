@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:30:55 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">113eda8f6a6b466c3797dbd4</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: insulin, aspart. ATC: A10AB05. Förväntas åter / Expected back: 2026-10-06 / 2026-10-06. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Sitagliptin Teva 100 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>

@@ -5,8 +5,43 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:46:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:30:55 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Brieka 100 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">267f943f7e42546d50b11b3f</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Brieka 100 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-09-10. Förväntas åter / Expected back: 2027-01-01 / 2027-01-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Gabapentin Actavis 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d8a73bcb995521d9631af533</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Gabapentin Actavis 300 mg Kapsel, hård. Substans / Substance: gabapentin. ATC: N02BF01. Tidigare förväntat åter / previously expected back: 2026-09-15. Förväntas åter / Expected back: 2026-11-15 / 2026-11-15. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Gabapentin Actavis 100 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">5c4c1939427a2615eb871b22</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Gabapentin Actavis 100 mg Kapsel, hård. Substans / Substance: gabapentin. ATC: N02BF01. Tidigare förväntat åter / previously expected back: 2026-09-15. Förväntas åter / Expected back: 2026-12-01 / 2026-12-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Iprensa 400 mg Kapsel, mjuk</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">a349ace9764d999669c8fdfc</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Iprensa 400 mg Kapsel, mjuk. Substans / Substance: ibuprofen. ATC: M01AE01. Förväntas åter / Expected back: 2026-10-26 / 2026-10-26. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Nurofen Jordgubb 40 mg/ml Oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">7bc88b5af02a94fd2324990f</guid>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Nurofen Jordgubb 40 mg/ml Oral suspension. Substans / Substance: ibuprofen. ATC: M01AE01. Förväntas åter / Expected back: 2026-10-25 / 2026-10-25. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Ibuprofen Punkt 400 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
