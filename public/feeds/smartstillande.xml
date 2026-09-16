@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:18:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:11:28 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">e3ca3a23546138d05af64674</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Förväntas åter / Expected back: 2026-12-10 / 2026-12-10. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Ibuprofen Punkt 400 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
