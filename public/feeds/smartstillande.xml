@@ -5,8 +5,43 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:11:28 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:19:35 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Rizatriptan Glenmark 10 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">ff666b07cbeac82d11dbb5ea</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Rizatriptan Glenmark 10 mg Tablett. Substans / Substance: rizatriptanbensoat. ATC: N02CC04. Förväntas åter / Expected back: 2026-10-13 / 2026-10-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Rizatriptan Glenmark 5 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">31f539e678b6c23794075f58</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Rizatriptan Glenmark 5 mg Tablett. Substans / Substance: rizatriptanbensoat. ATC: N02CC04. Förväntas åter / Expected back: 2026-10-26 / 2026-10-26. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Pregabalin Sandoz 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">752321df6086c695c74dc5c7</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Pregabalin Sandoz 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Förväntas åter / Expected back: 2026-10-20 / 2026-10-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Rizatriptan Glenmark 5 mg Munsönderfallande tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">9aef5077775fbc4235882621</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Rizatriptan Glenmark 5 mg Munsönderfallande tablett. Substans / Substance: rizatriptanbensoat. ATC: N02CC04. Förväntas åter / Expected back: 2026-10-21 / 2026-10-21. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: LYRICA 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d3126409a85a959cbc23b9b5</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: LYRICA 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Förväntas åter / Expected back: 2026-11-13 / 2026-11-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
