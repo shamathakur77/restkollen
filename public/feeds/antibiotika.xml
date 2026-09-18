@@ -5,8 +5,43 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:19:35 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:55:18 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Moxifloxacin Orion 400 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">118e6153cd94ad6dcc319835</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Moxifloxacin Orion 400 mg Filmdragerad tablett. Substans / Substance: moxifloxacinhydroklorid. ATC: J01MA14. Tidigare förväntat åter / previously expected back: 2027-03-01. Förväntas åter / Expected back: 2027-06-01 / 2027-06-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Fenoximetylpenicillin EQL 800 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">b79121c0949c365947868bd0</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Fenoximetylpenicillin EQL 800 mg Filmdragerad tablett. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2028-03-31 / 2028-03-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Fenoximetylpenicillin EQL Pharma 1 g Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">2e7e883c5bc59cdd5c0f67f7</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Fenoximetylpenicillin EQL Pharma 1 g Filmdragerad tablett. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2027-10-31 / 2027-10-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Fenoximetylpenicillin EQL Pharma 800 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">8129a075c5f92a253a800930</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Fenoximetylpenicillin EQL Pharma 800 mg Filmdragerad tablett. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2027-10-31 / 2027-10-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Moxifloxacin Orion 400 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">c66aed5fb75bec888383b106</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Moxifloxacin Orion 400 mg Filmdragerad tablett. Substans / Substance: moxifloxacinhydroklorid. ATC: J01MA14. Förväntas åter / Expected back: 2026-12-14 / 2026-12-14. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Amimox 100 mg/ml Granulat till oral suspension</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
