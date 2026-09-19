@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:55:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:42:01 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Oprixxa 500 mg/150 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">da732bc35fc26aa0e7603ed4</guid>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Oprixxa 500 mg/150 mg Filmdragerad tablett. Substans / Substance: ibuprofen | paracetamol. ATC: N02BE51. Tidigare förväntat åter / previously expected back: 2026-09-16. Förväntas åter / Expected back: 2027-01-04 / 2027-01-04. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Tapentadol Depot Krka 250 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">717b5e8881686a8dc851c53c</guid>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Tapentadol Depot Krka 250 mg Depottablett. Substans / Substance: tapentadolmaleathemihydrat. ATC: N02AX06. Tidigare förväntat åter / previously expected back: 2026-11-26. Förväntas åter / Expected back: 2027-01-01 / 2027-01-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Imigran Novum 50 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">c695532711289a0c46ac4d9e</guid>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Imigran Novum 50 mg Filmdragerad tablett. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Tidigare förväntat åter / previously expected back: 2026-11-17. Förväntas åter / Expected back: 2026-11-06 / 2026-11-06. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Rizatriptan Glenmark 10 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
