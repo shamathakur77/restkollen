@@ -5,8 +5,36 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:47:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:11:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Palladon 20 mg/ml Injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">c3724de4537dbc85103e69f7</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Palladon 20 mg/ml Injektions-/infusionsvätska, lösning. Substans / Substance: hydromorfonhydroklorid. ATC: N02AA03. Tidigare förväntat åter / previously expected back: 2026-09-30. Förväntas åter / Expected back: 2026-12-31 / 2026-12-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Palladon 50 mg/ml Injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">2210e6fcc05b4b92ebea38f0</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Palladon 50 mg/ml Injektions-/infusionsvätska, lösning. Substans / Substance: hydromorfonhydroklorid. ATC: N02AA03. Tidigare förväntat åter / previously expected back: 2026-09-30. Förväntas åter / Expected back: 2026-12-31 / 2026-12-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Iprensa 400 mg Kapsel, mjuk</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d8a2281c786557eb08f75074</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Iprensa 400 mg Kapsel, mjuk. Substans / Substance: ibuprofen. ATC: M01AE01. Tidigare förväntat åter / previously expected back: 2026-10-26. Förväntas åter / Expected back: 2026-10-20 / 2026-10-20. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Sumatriptan Viatris 50 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">82e9a5ca9dca40dc92232823</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Sumatriptan Viatris 50 mg Filmdragerad tablett. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Förväntas åter / Expected back: 2027-03-31 / 2027-03-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Oprixxa 500 mg/150 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

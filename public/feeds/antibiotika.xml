@@ -5,8 +5,36 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:47:15 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:11:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Amimox 100 mg/ml Granulat till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">52cc72c40e8bf754a7a2690d</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amimox 100 mg/ml Granulat till oral suspension. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2027-02-28. Förväntas åter / Expected back: 2027-01-05 / 2027-01-05. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Amimox 50 mg/ml Granulat till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">32fe972c3e1eba2ea7c4e2a7</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amimox 50 mg/ml Granulat till oral suspension. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2027-01-31. Förväntas åter / Expected back: 2026-12-01 / 2026-12-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Amimox 50 mg/ml Granulat till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">49d7145acb5aac4f95d985fb</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Amimox 50 mg/ml Granulat till oral suspension. Substans / Substance: amoxicillintrihydrat. ATC: J01CA04. Tidigare förväntat åter / previously expected back: 2027-01-31. Förväntas åter / Expected back: 2026-12-01 / 2026-12-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Dalbavancin Bioglan 500 mg Pulver till konc. till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">9570e2ade71770aeed9b3992</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Dalbavancin Bioglan 500 mg Pulver till konc. till infusionsvätska, lösning. Substans / Substance: dalbavancinhydroklorid. ATC: J01XA04. Förväntas åter / Expected back: 2026-10-25 / 2026-10-25. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Moxifloxacin Orion 400 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
