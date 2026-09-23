@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:11:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:11:58 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Benzylpenicillin Panpharma  Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">142a1972ca15c7bccb2d1f37</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Benzylpenicillin Panpharma  Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: bensylpenicillinnatrium. ATC: J01CE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Ertapenem Fresenius Kabi 1 g Pulver till konc. till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">14da88fc5b92961e99d1222b</guid>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Ertapenem Fresenius Kabi 1 g Pulver till konc. till infusionsvätska, lösning. Substans / Substance: ertapenemmononatrium. ATC: J01DH03. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Amimox 100 mg/ml Granulat till oral suspension</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
