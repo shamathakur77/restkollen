@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:11:58 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:10:02 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Försäljning upphör: Almotriptan Orifarm 12,5 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">5fbc89e1fc30bbc64125fda4</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Almotriptan Orifarm 12,5 mg Filmdragerad tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: almotriptanmalat. ATC: N02CC05. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Naratriptan Orifarm 2,5 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">1f3d134f34207b865cbcb5f9</guid>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Naratriptan Orifarm 2,5 mg Filmdragerad tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: naratriptanhydroklorid. ATC: N02CC02. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Paracetamol B. Braun 10 mg/ml Infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
