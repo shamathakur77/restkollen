@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:30:07 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:14:56 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">8a981f66ecc3b2ce828ee69d</guid>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: insulin, aspart. ATC: A10AB05. Tidigare förväntat åter / previously expected back: 2026-10-16. Förväntas åter / Expected back: 2026-10-07 / 2026-10-07. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Toujeo SoloStar 300 enheter/ml Injektionsvätska, lösning i förf. injektionspenna</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
