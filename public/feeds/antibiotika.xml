@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:31:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:22:24 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Phenoxymethylpenicillin EQL 100 mg/ml Granulat till oral suspension</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">76814948dbb2dba0c3ae846a</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Phenoxymethylpenicillin EQL 100 mg/ml Granulat till oral suspension. Substans / Substance: fenoximetylpenicillinkalium. ATC: J01CE02. Förväntas åter / Expected back: 2027-01-31 / 2027-01-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Klacid 250 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:31:14 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:22:24 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Femanest 2 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">f4ab5d2cb785e59055526aba</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Femanest 2 mg Tablett. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Tidigare förväntat åter / previously expected back: 2026-11-30. Förväntas åter / Expected back: 2026-11-15 / 2026-11-15. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">2ffd815e9808c6ccc8ea9500</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett. Substans / Substance: drospirenon | etinylestradiol. ATC: G03AA12. Tidigare förväntat åter / previously expected back: 2026-10-12. Förväntas åter / Expected back: 2026-11-12 / 2026-11-12. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Femanest 1 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">337c94e9de8d950927a3a88e</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Femanest 1 mg Tablett. Substans / Substance: estradiolhemihydrat. ATC: G03CA03. Förväntas åter / Expected back: 2026-11-15 / 2026-11-15. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Amorest 28 250 mikrogram/35 mikrogram Tablett</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
