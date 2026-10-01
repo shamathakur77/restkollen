@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:22:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:49:03 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Ciprofloxacin Accord 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">356fb202b8b2f578188f99d2</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Ciprofloxacin Accord 750 mg Filmdragerad tablett. Substans / Substance: ciprofloxacinhydroklorid (monohydrat). ATC: J01MA02. Tidigare förväntat åter / previously expected back: 2026-09-30. Förväntas åter / Expected back: 2026-11-27 / 2026-11-27. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Phenoxymethylpenicillin EQL 100 mg/ml Granulat till oral suspension</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
     <description>Ändringar i restanmälningar: Preventivmedel (ATC G03A). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:22:24 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:49:03 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
+      <guid isPermaLink="false">b9c8f702000baf37bb9d907f</guid>
+      <pubDate>Thu, 01 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett. Substans / Substance: drospirenon | etinylestradiol. ATC: G03AA12. Tidigare förväntat åter / previously expected back: 2026-11-12. Förväntas åter / Expected back: 2026-11-30 / 2026-11-30. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
