@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:49:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:23:32 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Pregabalin Sandoz 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">88e1f658fd94566c99f05f68</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Pregabalin Sandoz 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-10-20. Förväntas åter / Expected back: 2026-10-06 / 2026-10-06. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Maxalt Rapitab 10 mg Frystorkad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">b5d31d57fedaf20498899149</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Maxalt Rapitab 10 mg Frystorkad tablett. Substans / Substance: rizatriptanbensoat. ATC: N02CC04. Förväntas åter / Expected back: 2026-10-16 / 2026-10-16. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Sumatriptan Teva 50 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

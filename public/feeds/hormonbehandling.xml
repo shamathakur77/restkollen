@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
     <description>Ändringar i restanmälningar: Hormonbehandling (MHT/HRT) (ATC G03). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:49:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:23:32 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Provera 10 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
+      <guid isPermaLink="false">5d28fa53f246f0cbc54e0fa2</guid>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Provera 10 mg Tablett. Substans / Substance: medroxiprogesteronacetat. ATC: G03DA02. Tidigare förväntat åter / previously expected back: 2026-11-23. Förväntas åter / Expected back: 2026-11-06 / 2026-11-06. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/hormonbehandling</link>
