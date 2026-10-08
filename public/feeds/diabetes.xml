@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:13:42 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">faa01e5497eb0d66d70f435a</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Insulin aspart Sanofi 100 E/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: insulin, aspart. ATC: A10AB05. Tidigare förväntat åter / previously expected back: 2026-10-07. Förväntas åter / Expected back: 2026-10-12 / 2026-10-12. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Repaglinide Krka 1 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>

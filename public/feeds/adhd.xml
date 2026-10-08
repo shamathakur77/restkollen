@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/adhd</link>
     <description>Ändringar i restanmälningar: ADHD-läkemedel (ATC N06BA). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:13:42 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Attentin 10 mg Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/adhd</link>
+      <guid isPermaLink="false">9be251a9dc4cff9e5c5ff607</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Attentin 10 mg Tablett. Substans / Substance: dexamfetaminsulfat. ATC: N06BA02. Förväntas åter / Expected back: 2026-12-01 / 2026-12-01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Atomoxetin Glenmark 40 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/adhd</link>

@@ -5,8 +5,22 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:56:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:13:42 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 225 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d12ea47bda0cfb0e0ffc593e</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 225 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-09-30. Förväntas åter / Expected back: 2026-11-10 / 2026-11-10. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Gabapentin 1A Farma 400 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">bd53352a859011f4f0ffc940</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Gabapentin 1A Farma 400 mg Kapsel, hård. Substans / Substance: gabapentin. ATC: N02BF01. Tidigare förväntat åter / previously expected back: 2026-10-08. Förväntas åter / Expected back: 2026-10-28 / 2026-10-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Rizatriptan Glenmark 10 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
