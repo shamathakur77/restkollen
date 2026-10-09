@@ -5,8 +5,43 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:13:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:12:30 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Pregabalin Sandoz 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">c42438f8d9aafe14f03db9b2</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Pregabalin Sandoz 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">1566f078670e82b1a3c2520a</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-10-31. Förväntas åter / Expected back: 2026-12-22 / 2026-12-22. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">9961f19bc3f9603a54394a73</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 300 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-11-13. Förväntas åter / Expected back: 2026-12-22 / 2026-12-22. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: OxyNorm 5 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">8503d5a0532476969c012d12</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: OxyNorm 5 mg Kapsel, hård. Substans / Substance: oxikodonhydroklorid. ATC: N02AA05. Tidigare förväntat åter / previously expected back: 2026-12-23. Förväntas åter / Expected back: 2026-10-28 / 2026-10-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: LYRICA 225 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">f6c79abf83c9ef952f22d055</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: LYRICA 225 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Förväntas åter / Expected back: 2026-12-22 / 2026-12-22. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: LYRICA 225 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
