@@ -5,8 +5,36 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:46:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:33:53 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Brufen Retard 800 mg Depottablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">4dd64573fd29082b8b7a1aaf</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Brufen Retard 800 mg Depottablett. Substans / Substance: ibuprofen. ATC: M01AE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: Rizatriptan Glenmark 10 mg Munsönderfallande tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">fc0ee567a22a9960fd0feae2</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: Rizatriptan Glenmark 10 mg Munsönderfallande tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: rizatriptanbensoat. ATC: N02CC04. Förväntas åter / Expected back: 2026-10-09 / 2026-10-09. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 225 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">74866cedb6434670f2417f6b</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 225 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-12-15. Förväntas åter / Expected back: 2027-01-19 / 2027-01-19. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Nytt förväntat datum: LYRICA 50 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d3ea9b7fa333e1a9c61a9524</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: LYRICA 50 mg Kapsel, hård. Substans / Substance: pregabalin. ATC: N02BF02. Tidigare förväntat åter / previously expected back: 2026-11-30. Förväntas åter / Expected back: 2027-02-28 / 2027-02-28. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Maxalt Rapitab 10 mg Frystorkad tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

@@ -5,8 +5,29 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Mon, 12 Oct 2026 13:46:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:33:53 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Kolistimetatnatrium Accord 1 miljon IE Pulver till injektions-/infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">c8766f7463c08c28c3a2c1a8</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Kolistimetatnatrium Accord 1 miljon IE Pulver till injektions-/infusionsvätska, lösning. Substans / Substance: kolistimetatnatrium. ATC: J01XB01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Flukloxacillin Viatris 750 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">8056bf7558a5c2575ad85a04</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Flukloxacillin Viatris 750 mg Filmdragerad tablett. Substans / Substance: flukloxacillinnatriummonohydrat. ATC: J01CF05. Förväntas åter / Expected back: 2027-03-13 / 2027-03-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Heracillin 1 g Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">e4865128fd7321b59e429c72</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Heracillin 1 g Filmdragerad tablett. Substans / Substance: flukloxacillinnatriummonohydrat. ATC: J01CF05. Förväntas åter / Expected back: 2027-03-13 / 2027-03-13. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Dalbavancin Bioglan 500 mg Pulver till konc. till infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>
