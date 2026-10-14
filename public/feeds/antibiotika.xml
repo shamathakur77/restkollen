@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/antibiotika</link>
     <description>Ändringar i restanmälningar: Antibiotika (ATC J01). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:33:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:23:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Ny restanmälan: Zerbaxa 1 g/0,5 g Pulver till konc. till infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/antibiotika</link>
+      <guid isPermaLink="false">a0142a123ae3a6defbc2a00d</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Zerbaxa 1 g/0,5 g Pulver till konc. till infusionsvätska, lösning. Substans / Substance: ceftolozansulfat | tazobaktamnatrium. ATC: J01DI54. Förväntas åter / Expected back: 2026-11-16 / 2026-11-16. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Kolistimetatnatrium Accord 1 miljon IE Pulver till injektions-/infusionsvätska, lösning</title>
       <link>https://restkollen.vercel.app/kategori/antibiotika</link>

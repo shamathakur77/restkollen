@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
     <description>Ändringar i restanmälningar: Preventivmedel (ATC G03A). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:33:53 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:23:40 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Amorest 28 250 mikrogram/35 mikrogram Tablett</title>
+      <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
+      <guid isPermaLink="false">c3e07f339c51ab604bef19a0</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Amorest 28 250 mikrogram/35 mikrogram Tablett. Substans / Substance: etinylestradiol | norgestimat. ATC: G03AA11. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Nytt förväntat datum: Dizmine 28 0,03 mg/3 mg Filmdragerad tablett</title>
       <link>https://restkollen.vercel.app/kategori/preventivmedel</link>
