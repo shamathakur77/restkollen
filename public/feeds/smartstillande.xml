@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:23:40 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:01:58 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Gabapentin Actavis 300 mg Kapsel, hård</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">197578ef8a614d6bd166c267</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Gabapentin Actavis 300 mg Kapsel, hård. Substans / Substance: gabapentin. ATC: N02BF01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Rizatriptan Glenmark 10 mg Munsönderfallande tablett</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>
