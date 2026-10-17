@@ -5,8 +5,36 @@
     <link>https://restkollen.vercel.app/kategori/smartstillande</link>
     <description>Ändringar i restanmälningar: Smärtstillande (ATC N02, M01AE). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:53:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:24:06 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Restanmälan avslutad: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">8a19ebf78c92e6b8fb02823d</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Restanmälan avslutad: Paracetamol B. Braun 10 mg/ml Infusionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">76cdfa25eac78033530fe4e4</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Restanmälan avslutad / Shortage report ended. Produkt / Product: Paracetamol B. Braun 10 mg/ml Infusionsvätska, lösning. Substans / Substance: paracetamol. ATC: N02BE01. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Ny restanmälan: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">d1330a7de52bed02bb11ed3e</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Ny restanmälan / New shortage report. Produkt / Product: Sumatriptan Advanz Pharma 12 mg/ml Injektionsvätska, lösning i förf. injektionspenna. Substans / Substance: sumatriptansuccinat. ATC: N02CC01. Förväntas åter / Expected back: 2026-11-15 / 2026-11-15. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
+    <item>
+      <title>Försäljning upphör: Paracetamol Punkt 500 mg Filmdragerad tablett</title>
+      <link>https://restkollen.vercel.app/kategori/smartstillande</link>
+      <guid isPermaLink="false">33ba43ba74dd826e38c9c7e7</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Försäljning upphör / Sales ending (cessation reported). Produkt / Product: Paracetamol Punkt 500 mg Filmdragerad tablett. Typ: anmält upphörande av försäljning / Type: reported sales cessation. Substans / Substance: paracetamol. ATC: N02BE01. Förväntas åter / Expected back: uppgift saknas / not reported. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Restanmälan avslutad: Gabapentin Actavis 300 mg Kapsel, hård</title>
       <link>https://restkollen.vercel.app/kategori/smartstillande</link>

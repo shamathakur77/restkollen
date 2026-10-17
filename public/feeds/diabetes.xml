@@ -5,8 +5,15 @@
     <link>https://restkollen.vercel.app/kategori/diabetes</link>
     <description>Ändringar i restanmälningar: Diabetesläkemedel (ATC A10). Källa: Läkemedelsverkets öppna data. Inte medicinsk rådgivning.</description>
     <language>sv</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:53:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:24:06 +0200</lastBuildDate>
     <ttl>720</ttl>
+    <item>
+      <title>Nytt förväntat datum: NovoRapid PumpCart 100 E/ml Injektionsvätska, lösning</title>
+      <link>https://restkollen.vercel.app/kategori/diabetes</link>
+      <guid isPermaLink="false">99324b8f149f1f9fb88c5559</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0200</pubDate>
+      <description>Nytt förväntat datum / Expected return date changed. Produkt / Product: NovoRapid PumpCart 100 E/ml Injektionsvätska, lösning. Substans / Substance: insulin, aspart (lösligt). ATC: A10AB05. Tidigare förväntat åter / previously expected back: 2026-12-31. Förväntas åter / Expected back: 2027-05-31 / 2027-05-31. Källa: Läkemedelsverkets öppna data. En restanmälan är inte samma sak som lagerstatus på apotek. / Source: Swedish MPA open data. A shortage report is not the same as pharmacy stock.</description>
+    </item>
     <item>
       <title>Ny restanmälan: Pioglitazone Accord 45 mg Tablett</title>
       <link>https://restkollen.vercel.app/kategori/diabetes</link>
